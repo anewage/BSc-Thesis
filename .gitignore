@@ -3,4 +3,5 @@ Reports/Proposal/*.aux
 Reports/Proposal/*.log
 Reports/Proposal/*.gz
 Reports/Proposal/*.toc
+Reports/Proposal/*.out
 
