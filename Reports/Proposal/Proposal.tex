@@ -1,0 +1,62 @@
+\documentclass{report}
+\usepackage[final]{pdfpages} %For using cover page pdf in the latex file
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{tocloft}
+
+%\usepackage{perpage} %the perpage package
+%\MakePerPage{footnote} %the perpage package command
+
+% For adding TOC in pdf bookmarks
+\usepackage{hyperref}
+\hypersetup{pdftex,colorlinks=true,allcolors=black}
+\usepackage{hypcap}
+%
+\usepackage{float}
+\usepackage{xepersian}
+\usepackage{bidi}
+
+
+\settextfont{Yas}
+\SepMark{-}
+
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+
+\theoremstyle{definition}
+\newtheorem{definition}{تعریف}
+
+\title{طرح پیشنهادی پروژه کارشناسی}
+\author{امیر حقیقتی ملکی}
+\date{پاییز ۹۶}
+	
+\begin{document}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%	 TITLE PAGE - BEGIN	     %%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\newgeometry{margin=1in}
+	\pagenumbering{gobble}
+	\begin{titlepage}
+		\input{Title_Page.tex}
+		\includepdf[pages=-]{Project_Definition_Page.pdf}
+	\end{titlepage}
+	\newpage
+	\pagenumbering{Alph}
+	\begin{abstract}
+		\thispagestyle{plain}
+		لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+	\end{abstract}
+	\newpage
+	\pagenumbering{gobble}
+	\tableofcontents
+	\newpage
+	\pagenumbering{arabic}
+	\chapter{مقدمه}
+	فرایند تولید وب‌اپلیکیشن‌ها به سبب ویژگی‌های خاص این نوع اپلیکیشن‌ها، فرایند بیسار هزینه‌بری بوده و نیازمنده صرف دقت فراوان است. تست و سنجش نرم‌افزار در متدولوژی‌های سنتی مهندسی نرم‌افزار در آخرین مرحله از کار قرار می‌گرفتند ولی در تولید و ساخت وب‌اپلیکیشن‌ها 
+	\section{قسمت اول}
+	
+\end{document}

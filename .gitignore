@@ -1,0 +1,6 @@
+﻿#Latex Temp Files
+Reports/Proposal/*.aux
+Reports/Proposal/*.log
+Reports/Proposal/*.gz
+Reports/Proposal/*.toc
+
