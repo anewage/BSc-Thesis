@@ -10,7 +10,7 @@
 \contentsline {subsection}{\numberline {1‏-‏1‏-‏2}کیفیت در سامانه‌های نرم‌افزاری مبتنی بر وب}{4}{subsection.1.1.2}
 \contentsline {section}{\numberline {1‏-‏2}مشخصه‌های کیفی نرم‌افزار}{4}{section.1.2}
 \contentsline {subsection}{\numberline {1‏-‏2‏-‏1}کارآیی}{4}{subsection.1.2.1}
-\contentsline {subsubsection}{کارآیی و لایه‌های طراحی سامانه‌های مبتنی بر وب}{6}{section*.4}
+\contentsline {subsubsection}{استفاده‌پذیری و لایه‌های طراحی سامانه‌های مبتنی بر وب}{6}{section*.4}
 \contentsline {section}{\numberline {1‏-‏3}چرخه طراحی سامانه‌های مبتنی بر وب}{6}{section.1.3}
 \contentsline {subsection}{\numberline {1‏-‏3‏-‏1}تلفیق نگاه مهندسی و هنری}{7}{subsection.1.3.1}
 \contentsline {section}{\numberline {1‏-‏4}جمع‌سپاری}{8}{section.1.4}
@@ -27,11 +27,12 @@
 \contentsline {subsection}{\numberline {3‏-‏3‏-‏1}ارزیابی خرد}{18}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3‏-‏3‏-‏2}ارزیابی کلان}{19}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3‏-‏3‏-‏3}اهداف کاربری}{19}{subsection.3.3.3}
-\contentsline {paragraph}{کارایی}{19}{section*.6}
+\contentsline {paragraph}{کارایی}{20}{section*.6}
 \contentsline {paragraph}{رضایت}{20}{section*.7}
+\contentsline {paragraph}{مدل کانو}{20}{section*.8}
 \contentsline {section}{\numberline {3‏-‏4}خصیصه‌های استفاده‌پذیری و اندازه‌گیری آن}{22}{section.3.4}
-\contentsline {section}{\numberline {3‏-‏5}ابزارهای سنجش استفاده‌پذیری}{22}{section.3.5}
-\contentsline {chapter}{منابع و مراجع}{23}{appendix*.8}
-\contentsline {chapter}{پیوست}{27}{appendix*.9}
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{28}{appendix*.11}
+\contentsline {section}{\numberline {3‏-‏5}ابزارهای سنجش استفاده‌پذیری}{23}{section.3.5}
+\contentsline {chapter}{منابع و مراجع}{24}{appendix*.9}
+\contentsline {chapter}{پیوست}{28}{appendix*.10}
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{29}{appendix*.12}
 \contentsfinish 
