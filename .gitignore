@@ -5,3 +5,7 @@ Reports/Proposal/*.gz
 Reports/Proposal/*.toc
 Reports/Proposal/*.out
 
+./idea/**
+idea
+
+
