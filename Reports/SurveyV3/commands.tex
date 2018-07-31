@@ -5,7 +5,8 @@
 % بسته‌ای برای تنطیم حاشیه‌های بالا، پایین، چپ و راست صفحه
 \usepackage[top=30mm, bottom=30mm, left=25mm, right=30mm]{geometry}
 % بسته‌‌ای برای ظاهر شدن شکل‌ها و تصاویر متن
-\usepackage{graphicx}
+\usepackage{array,multirow,graphicx}
+\usepackage{rotating}
 \usepackage{color}
 %\usepackage{natbib}
 %بسته‌ای برای تنظیم فاصله عمودی خط‌های متن
@@ -265,3 +266,5 @@
 %\renewcommand\cftsecleader{\cftdotfill{\cftdotsep}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}}

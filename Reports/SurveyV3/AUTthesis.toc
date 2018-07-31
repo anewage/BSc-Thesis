@@ -10,11 +10,11 @@
 \contentsline {subsection}{\numberline {1‏-‏1‏-‏2}کیفیت در سامانه‌های نرم‌افزاری مبتنی بر وب}{4}{subsection.1.1.2}
 \contentsline {section}{\numberline {1‏-‏2}مشخصه‌های کیفی نرم‌افزار}{4}{section.1.2}
 \contentsline {subsection}{\numberline {1‏-‏2‏-‏1}کارآیی}{4}{subsection.1.2.1}
-\contentsline {subsubsection}{کارآیی و لایه‌های طراحی سامانه‌های مبتنی بر وب}{5}{section*.4}
+\contentsline {subsubsection}{کارآیی و لایه‌های طراحی سامانه‌های مبتنی بر وب}{6}{section*.4}
 \contentsline {section}{\numberline {1‏-‏3}چرخه طراحی سامانه‌های مبتنی بر وب}{6}{section.1.3}
 \contentsline {subsection}{\numberline {1‏-‏3‏-‏1}تلفیق نگاه مهندسی و هنری}{7}{subsection.1.3.1}
-\contentsline {section}{\numberline {1‏-‏4}جمع‌سپاری}{7}{section.1.4}
-\contentsline {paragraph}{جمع‌سپاری}{7}{section*.5}
+\contentsline {section}{\numberline {1‏-‏4}جمع‌سپاری}{8}{section.1.4}
+\contentsline {paragraph}{جمع‌سپاری}{8}{section*.5}
 \contentsline {subsection}{\numberline {1‏-‏4‏-‏1}جمع‌سپاری برای جمع‌آوری داده}{8}{subsection.1.4.1}
 \contentsline {chapter}{\numberline {2}شیوه پژوهش‌}{9}{chapter.2}
 \contentsline {chapter}{\numberline {3}مروری بر کارهای گذشته، روش‌ها و ابزارهای موجود}{12}{chapter.3}
@@ -23,15 +23,15 @@
 \contentsline {subsection}{\numberline {3‏-‏1‏-‏2}مدل‌های مبتنی بر متامدل}{15}{subsection.3.1.2}
 \contentsline {subsection}{\numberline {3‏-‏1‏-‏3}مدل‌های آماری و ضمنی}{15}{subsection.3.1.3}
 \contentsline {section}{\numberline {3‏-‏2}تمرکز بر استفاده‌پذیری روی مدل‌های کیفیتی}{15}{section.3.2}
-\contentsline {section}{\numberline {3‏-‏3}مطالعه استفاده‌پذیری و ارزیابی تجربه کاربری}{16}{section.3.3}
-\contentsline {subsection}{\numberline {3‏-‏3‏-‏1}ارزیابی خرد}{17}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3‏-‏3‏-‏2}ارزیابی کلان}{17}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3‏-‏3‏-‏3}اهداف کاربری}{18}{subsection.3.3.3}
-\contentsline {paragraph}{کارایی}{18}{section*.6}
-\contentsline {paragraph}{رضایت}{19}{section*.7}
-\contentsline {section}{\numberline {3‏-‏4}خصیصه‌های استفاده‌پذیری و اندازه‌گیری آن}{20}{section.3.4}
-\contentsline {section}{\numberline {3‏-‏5}ابزارهای سنجش استفاده‌پذیری}{20}{section.3.5}
-\contentsline {chapter}{منابع و مراجع}{21}{appendix*.8}
-\contentsline {chapter}{پیوست}{24}{appendix*.9}
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{25}{appendix*.11}
+\contentsline {section}{\numberline {3‏-‏3}مطالعه استفاده‌پذیری و ارزیابی تجربه کاربری}{17}{section.3.3}
+\contentsline {subsection}{\numberline {3‏-‏3‏-‏1}ارزیابی خرد}{18}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3‏-‏3‏-‏2}ارزیابی کلان}{19}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3‏-‏3‏-‏3}اهداف کاربری}{19}{subsection.3.3.3}
+\contentsline {paragraph}{کارایی}{19}{section*.6}
+\contentsline {paragraph}{رضایت}{20}{section*.7}
+\contentsline {section}{\numberline {3‏-‏4}خصیصه‌های استفاده‌پذیری و اندازه‌گیری آن}{22}{section.3.4}
+\contentsline {section}{\numberline {3‏-‏5}ابزارهای سنجش استفاده‌پذیری}{22}{section.3.5}
+\contentsline {chapter}{منابع و مراجع}{23}{appendix*.8}
+\contentsline {chapter}{پیوست}{27}{appendix*.9}
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{28}{appendix*.11}
 \contentsfinish 
