@@ -1,7 +1,7 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست اشکال}{د}{section*.2}
-\contentsline {chapter}{فهرست جداول}{ه}{section*.3}
+\contentsline {chapter}{فهرست اشکال}{ه}{section*.2}
+\contentsline {chapter}{فهرست جداول}{و}{section*.3}
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}
@@ -30,9 +30,20 @@
 \contentsline {paragraph}{کارایی}{20}{section*.6}
 \contentsline {paragraph}{رضایت}{20}{section*.7}
 \contentsline {paragraph}{مدل کانو}{20}{section*.8}
-\contentsline {section}{\numberline {3‏-‏4}خصیصه‌های استفاده‌پذیری و اندازه‌گیری آن}{22}{section.3.4}
-\contentsline {section}{\numberline {3‏-‏5}ابزارهای سنجش استفاده‌پذیری}{23}{section.3.5}
-\contentsline {chapter}{منابع و مراجع}{24}{appendix*.9}
-\contentsline {chapter}{پیوست}{28}{appendix*.10}
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{29}{appendix*.12}
+\contentsline {section}{\numberline {3‏-‏4}سناریوهای مطالعه استفاده‌پذیری و خصیصه‌های مطرح در هرکدام}{22}{section.3.4}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏1}انجام یک تراکنش}{23}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏2}مقایسه محصولات}{23}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏3}ارزیابی استفاده مکرر از محصول}{24}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏4}ارزیابی پیمایش و معماری اطلاعات سامانه}{24}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏5}افزایش آگاهی}{24}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏6}کشف مشکل}{24}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏7}حداکثرسازی استفاده‌پذیری یک محصول حیاتی}{24}{subsection.3.4.7}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏8}ایجاد تجربه کاربری مثبت}{25}{subsection.3.4.8}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏9}ارزیابی تاثیرات تغییرات جزئی و نامحسوس}{25}{subsection.3.4.9}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏10}مقایسه طراحی‌های مختلف}{25}{subsection.3.4.10}
+\contentsline {section}{\numberline {3‏-‏5}روش‌های سنجش استفاده‌پذیری}{26}{section.3.5}
+\contentsline {section}{\numberline {3‏-‏6}ابزارهای سنجش استفاده‌پذیری}{26}{section.3.6}
+\contentsline {chapter}{منابع و مراجع}{27}{appendix*.9}
+\contentsline {chapter}{پیوست}{31}{appendix*.10}
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{32}{appendix*.12}
 \contentsfinish 

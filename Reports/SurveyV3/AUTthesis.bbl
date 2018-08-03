@@ -14,6 +14,7 @@ Computing {Research} \& {Education}.
 \resetlatinfont
 \bibitem{noauthor_dblp:_nodate}
 dblp: computer science bibliography.
+\newblock ACCESSED‌:‌2018-07-08.
 
 \end{LTRbibitems}
 
@@ -267,6 +268,16 @@ Krug, Steve.
 \newblock {\em Don't make me think!: a common sense approach to {Web}
   usability}.
 \newblock Pearson Education India, 1 edition, 2000.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{krug_dont_2018}
+Krug, Steve.
+\newblock {\em Don't make me think!: {Web} \& {Mobile} {Usability}: {Das}
+  intuitive {Web}}.
+\newblock MITP-Verlags GmbH \& Co. KG, January 2018.
 
 \end{LTRbibitems}
 

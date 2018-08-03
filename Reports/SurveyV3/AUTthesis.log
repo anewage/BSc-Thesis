@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.12.8)  1 AUG 2018 00:00
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.12.8)  3 AUG 2018 23:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1894,19 +1894,11 @@ a (toc, 1): 22.5802pt
 A (toc, 1): 11.22028pt
 m (toc, 2): 32.00002pt
 C (toc, 2): 33.80048pt
-a (toc, 2): 33.94012pt
+a (toc, 2): 39.66039pt
 A (toc, 2): 33.80048pt
 m (toc, 2): 32.00002pt
 C (toc, 2): 33.80048pt
-a (toc, 2): 33.94012pt
-A (toc, 2): 33.80048pt
-m (toc, 1): 23.00006pt
-C (toc, 1): 11.22028pt
-a (toc, 1): 22.5802pt
-A (toc, 1): 11.22028pt
-m (toc, 2): 32.00002pt
-C (toc, 2): 33.80048pt
-a (toc, 2): 33.94012pt
+a (toc, 2): 39.66039pt
 A (toc, 2): 33.80048pt
 m (toc, 1): 23.00006pt
 C (toc, 1): 11.22028pt
@@ -1914,7 +1906,7 @@ a (toc, 1): 22.5802pt
 A (toc, 1): 11.22028pt
 m (toc, 2): 32.00002pt
 C (toc, 2): 33.80048pt
-a (toc, 2): 33.94012pt
+a (toc, 2): 39.66039pt
 A (toc, 2): 33.80048pt
 m (toc, 1): 23.00006pt
 C (toc, 1): 11.22028pt
@@ -1922,7 +1914,15 @@ a (toc, 1): 22.5802pt
 A (toc, 1): 11.22028pt
 m (toc, 2): 32.00002pt
 C (toc, 2): 33.80048pt
-a (toc, 2): 33.94012pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
+m (toc, 1): 23.00006pt
+C (toc, 1): 11.22028pt
+a (toc, 1): 22.5802pt
+A (toc, 1): 11.22028pt
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
 A (toc, 2): 33.80048pt
 m (toc, 0): 15.00002pt
 C (toc, 0): 0.0pt
@@ -1938,15 +1938,15 @@ a (toc, 1): 22.5802pt
 A (toc, 1): 11.22028pt
 m (toc, 2): 32.00002pt
 C (toc, 2): 33.80048pt
-a (toc, 2): 33.94012pt
+a (toc, 2): 39.66039pt
 A (toc, 2): 33.80048pt
 m (toc, 2): 32.00002pt
 C (toc, 2): 33.80048pt
-a (toc, 2): 33.94012pt
+a (toc, 2): 39.66039pt
 A (toc, 2): 33.80048pt
 m (toc, 2): 32.00002pt
 C (toc, 2): 33.80048pt
-a (toc, 2): 33.94012pt
+a (toc, 2): 39.66039pt
 A (toc, 2): 33.80048pt
 m (toc, 1): 23.00006pt
 C (toc, 1): 11.22028pt
@@ -1958,15 +1958,62 @@ a (toc, 1): 22.5802pt
 A (toc, 1): 11.22028pt
 m (toc, 2): 32.00002pt
 C (toc, 2): 33.80048pt
-a (toc, 2): 33.94012pt
+a (toc, 2): 39.66039pt
 A (toc, 2): 33.80048pt
 m (toc, 2): 32.00002pt
 C (toc, 2): 33.80048pt
-a (toc, 2): 33.94012pt
+a (toc, 2): 39.66039pt
 A (toc, 2): 33.80048pt
 m (toc, 2): 32.00002pt
 C (toc, 2): 33.80048pt
-a (toc, 2): 33.94012pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
+m (toc, 1): 23.00006pt
+C (toc, 1): 11.22028pt
+a (toc, 1): 22.5802pt
+A (toc, 1): 11.22028pt
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
+[3
+
+]
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
 A (toc, 2): 33.80048pt
 m (toc, 1): 23.00006pt
 C (toc, 1): 11.22028pt
@@ -1992,9 +2039,7 @@ A (toc, 0): 0.0pt
 \tf@toc=\write7
 \openout7 = `AUTthesis.toc'.
 
- [3
-
-] (./AUTthesis.lof
+ [4] (./AUTthesis.lof
 m (lof, 1): 23.00006pt
 C (lof, 1): 15.00002pt
 a (lof, 1): 22.5802pt
@@ -2039,9 +2084,13 @@ A (lof, 1): 15.00002pt
 \tf@lof=\write8
 \openout8 = `AUTthesis.lof'.
 
- [4
+ [5
 
 ] (./AUTthesis.lot
+m (lot, 1): 23.00006pt
+C (lot, 1): 15.00002pt
+a (lot, 1): 22.5802pt
+A (lot, 1): 15.00002pt
 m (lot, 1): 23.00006pt
 C (lot, 1): 15.00002pt
 a (lot, 1): 22.5802pt
@@ -2054,7 +2103,7 @@ A (lot, 1): 15.00002pt
 \tf@lot=\write9
 \openout9 = `AUTthesis.lot'.
 
- [5
+ [6
 
 ]) (./list-of-symbols.tex
 LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
@@ -2075,7 +2124,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--68
 [][]
  []
 
-[6
+[7
 
 
 ])
@@ -2152,60 +2201,79 @@ File: Resources/assessment.PNG Graphic file (type QTm)
 <use  "Resources/assessment.PNG" > [17] [18] [19] [20]
 File: Resources/kano_model.PNG Graphic file (type QTm)
 
-<use  "Resources/kano_model.PNG" > [21]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 314.
-
-) [22] [23] (./AUTthesis.bbl
-LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
-(Font)              scaled to size 27.36815pt on input line 4.
- [24
-
-
-] [25] [26]) [27]
-\openout2 = `appendix1.aux'.
-
- (./appendix1.tex
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 17.
-
+<use  "Resources/kano_model.PNG" > [21] [22] [23]
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 379
+.
 
 (c:/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) [28
+)
+Missing character: There is no ب in font [lmmono10-regular]!
+Missing character: There is no ا in font [lmmono10-regular]!
+Missing character: There is no ی in font [lmmono10-regular]!
+Missing character: There is no د in font [lmmono10-regular]!
+ [24]
+
+LaTeX Warning: Citation `noauthor_sean_nodate' on page 25 undefined on input li
+ne 384.
+
+LaTeX Font Info:    Font shape `EU1/Yas(0)/bx/n' will be
+(Font)              scaled to size 8.80005pt on input line 406.
+
+LaTeX Warning: Citation `li_crowdsourced_2016' on page 25 undefined on input li
+ne 406.
+
+[25]) [26] (./AUTthesis.bbl
+LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
+(Font)              scaled to size 27.36815pt on input line 4.
+Missing character: There is no ‌ in font [lmroman10-regular]/OT:script=latn;lan
+guage=DFLT;mapping=tex-text;!
+Missing character: There is no ‌ in font [lmroman10-regular]/OT:script=latn;lan
+guage=DFLT;mapping=tex-text;!
+ [27
+
+
+] [28] [29]) [30]
+\openout2 = `appendix1.aux'.
+
+ (./appendix1.tex) [31
 
 
 ]
 \openout2 = `dicfa2en.aux'.
 
- (./dicfa2en.tex
-[29
+
+(./dicfa2en.tex [32
 
 
 
-] [30]) (./AUTthesis.ind)
+] [33]) (./AUTthesis.ind)
 \openout2 = `en-abstract.aux'.
 
- (./en-abstract.tex) [31
+ (./en-abstract.tex) [34
 
 
-] (./en_title.tex)
+]
+(./en_title.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
-
-(./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
-(./appendix1.aux) (./dicfa2en.aux) (./en-abstract.aux))
+ (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux)
+(./chapter3.aux) (./appendix1.aux) (./dicfa2en.aux) (./en-abstract.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 95.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 95.
+
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 95.
  ) 
 Here is how much of TeX's memory you used:
- 39933 strings out of 493638
- 746974 string characters out of 6147976
- 869764 words of memory out of 5000000
- 42549 multiletter control sequences out of 15000+600000
- 14026 words of font info for 107 fonts, out of 8000000 for 9000
+ 39949 strings out of 493638
+ 747265 string characters out of 6147976
+ 869770 words of memory out of 5000000
+ 42564 multiletter control sequences out of 15000+600000
+ 14034 words of font info for 108 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 57i,14n,63p,10433b,519s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,15n,63p,10433b,519s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (38 pages).
+Output written on AUTthesis.pdf (42 pages).
