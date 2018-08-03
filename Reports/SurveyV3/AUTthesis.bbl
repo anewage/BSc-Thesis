@@ -14,7 +14,6 @@ Computing {Research} \& {Education}.
 \resetlatinfont
 \bibitem{noauthor_dblp:_nodate}
 dblp: computer science bibliography.
-\newblock ACCESSED‌:‌2018-07-08.
 
 \end{LTRbibitems}
 
@@ -44,6 +43,21 @@ Progressive {Web} {Apps}  {\textbar}  {Web}  {\textbar}  {Google}
 \resetlatinfont
 \bibitem{noauthor_scimago_nodate}
 Scimago {Journal} \& {Country} {Rank}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{noauthor_sean_nodate}
+Sean {Parker} {Says} {Facebook} {Was} {Designed} to {Be} {Addictive}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{noauthor_leveraging_2012}
+Leveraging the {Kano} {Model} for {Optimal} {Results} {\textbar} {UX}
+  {Magazine}, October 2012.
 
 \end{LTRbibitems}
 
@@ -243,16 +257,6 @@ Hewett, T~T.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{iso/iec_iso/iec_1991}
-{ISO/IEC}.
-\newblock {ISO}/{IEC} 9126: {Information} {Technology}—{Software} {Product}
-  {Evaluation}—{Quality} {Characteristics} and {Guidelines} for their {Use}.
-\newblock 1991.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{kano_attractive_1984}
 KANO, N.
 \newblock Attractive quality and must-be quality.
@@ -294,6 +298,16 @@ KumarDubey, Sanjay, Rana, Ajay, and Sharma, Arun.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{li_crowdsourced_2016}
+Li, Guoliang, Wang, Jiannan, Zheng, Yudian, and Franklin, Michael~J.
+\newblock Crowdsourced {Data} {Management}: {A} {Survey}.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  28(9):2296--2319, September 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{mccall_factors_1977}
 McCall, Jim~A, Richards, Paul~K, and Walters, Gene~F.
 \newblock {\em Factors in software quality}, volume 1,2,3.
@@ -327,6 +341,17 @@ Neuhaus, Stephan, Zimmermann, Thomas, Holler, Christian, and Zeller, Andreas.
 Nielsen, Jakob.
 \newblock {\em Usability engineering}.
 \newblock Elsevier, 1994.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{organization_iso/iec_1991}
+Organization, I.S.
+\newblock {\em {ISO}/{IEC} 9126: {Information} {Technology} - {Software}
+  {Product} {Evaluation} - {Quality} {Characteristics} and {Guidelines} for
+  {Their} {Use}}.
+\newblock 1991.
 
 \end{LTRbibitems}
 
