@@ -5,11 +5,9 @@ A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 The style file: plain-fa.bst
-A level-1 auxiliary file: appendix1.aux
 A level-1 auxiliary file: dicfa2en.aux
 A level-1 auxiliary file: en-abstract.aux
 Database file #1: survey.bib
-Warning--to sort, need author or key in noauthor_formative_nodate
 Warning--to sort, need author or key in noauthor_bluffton_2018
 Warning--to sort, need author or key in noauthor_computing_nodate
 Warning--to sort, need author or key in noauthor_dblp:_nodate
@@ -17,6 +15,7 @@ Warning--to sort, need author or key in noauthor_scimago_nodate
 Warning--to sort, need author or key in noauthor_iso_nodate
 Warning--to sort, need author or key in noauthor_measuringu:_2018
 Warning--to sort, need author or key in noauthor_progressive_nodate
+Warning--to sort, need author or key in noauthor_formative_nodate
 Warning--to sort, need author or key in noauthor_kano_2018
 Warning--to sort, need author or key in noauthor_leveraging_2012
 Warning--to sort, need author or key in noauthor_sean_nodate
@@ -30,7 +29,7 @@ Warning--empty publisher in organization_iso/iec_1991
 Done.
 You've used 50 entries,
             2546 wiz_defined-function locations,
-            890 strings with 12854 characters,
+            889 strings with 12841 characters,
 and the built_in function-call counts, 15795 in all, are:
 = -- 1498
 > -- 541

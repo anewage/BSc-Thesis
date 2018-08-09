@@ -213,9 +213,10 @@
 \font\supervisorfont=cmbxti10
 
 \newcommand{\latinvtitle}{%
-\if@bscthesis \relax
-\else
-\relax
+%\if@bscthesis 
+%\relax
+%\else
+%\relax
 %-------------------------------------------------------------------------- table of En thesis
 
 %---------------------------------------------------------------------------- end of En table
@@ -227,11 +228,15 @@
 \bfseries
 \fontsize{16pt}{17pt}\selectfont\@latinfaculty\space 
 \vskip 5mm
- \if@mscthesis
+ \if@bscthesis
+BSc Project\par
+ \else
+  \if@mscthesis
 MSc Thesis\par
-\else
+  \else
 Ph.D Thesis\par
-\fi\par
+  \fi
+ \fi\par
 \vspace*{2cm}
 %{\fontsize{16pt}{17pt}\selectfont\bfseries Title}%\@latinsubject
 \par
@@ -291,7 +296,8 @@ Advisors
 \vfill
 %
 \end{titlepage}
-\fi}
+%\fi
+}
 
 \def\by{نگارش}
 \def\latinby{By}

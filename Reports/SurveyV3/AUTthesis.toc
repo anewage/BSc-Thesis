@@ -29,21 +29,20 @@
 \contentsline {subsection}{\numberline {3‏-‏3‏-‏3}اهداف کاربری}{20}{subsection.3.3.3}
 \contentsline {paragraph}{کارایی}{21}{section*.16}
 \contentsline {paragraph}{رضایت}{21}{section*.17}
-\contentsline {paragraph}{مدل کانو}{22}{section*.19}
-\contentsline {section}{\numberline {3‏-‏4}سناریوهای مطالعه استفاده‌پذیری و خصیصه‌های مطرح در هرکدام}{24}{section.3.4}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏1}انجام یک تراکنش}{25}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏2}مقایسه محصولات}{26}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏3}ارزیابی استفاده مکرر از محصول}{26}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏4}ارزیابی پیمایش و معماری اطلاعات سامانه}{26}{subsection.3.4.4}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏5}افزایش آگاهی}{26}{subsection.3.4.5}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏6}کشف مشکل}{26}{subsection.3.4.6}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏7}حداکثرسازی استفاده‌پذیری یک محصول حیاتی}{27}{subsection.3.4.7}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏8}ایجاد تجربه کاربری مثبت}{27}{subsection.3.4.8}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏9}ارزیابی تاثیرات تغییرات جزئی و نامحسوس}{27}{subsection.3.4.9}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏10}مقایسه طراحی‌های مختلف}{27}{subsection.3.4.10}
-\contentsline {section}{\numberline {3‏-‏5}روش‌های سنجش استفاده‌پذیری}{28}{section.3.5}
-\contentsline {section}{\numberline {3‏-‏6}ابزارهای سنجش استفاده‌پذیری}{28}{section.3.6}
-\contentsline {chapter}{منابع و مراجع}{29}{appendix*.22}
-\contentsline {chapter}{پیوست}{33}{appendix*.23}
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{34}{appendix*.25}
+\contentsline {paragraph}{مدل کانو}{21}{section*.18}
+\contentsline {section}{\numberline {3‏-‏4}سناریوهای مطالعه استفاده‌پذیری و خصیصه‌های مطرح در هرکدام}{25}{section.3.4}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏1}انجام یک تراکنش}{26}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏2}مقایسه محصولات}{27}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏3}ارزیابی استفاده مکرر از محصول}{27}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏4}ارزیابی پیمایش و معماری اطلاعات سامانه}{27}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏5}افزایش آگاهی}{27}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏6}کشف مشکل}{27}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏7}حداکثرسازی استفاده‌پذیری یک محصول حیاتی}{28}{subsection.3.4.7}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏8}ایجاد تجربه کاربری مثبت}{28}{subsection.3.4.8}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏9}ارزیابی تاثیرات تغییرات جزئی و نامحسوس}{28}{subsection.3.4.9}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏10}مقایسه طراحی‌های مختلف}{28}{subsection.3.4.10}
+\contentsline {section}{\numberline {3‏-‏5}روش‌های سنجش استفاده‌پذیری}{29}{section.3.5}
+\contentsline {section}{\numberline {3‏-‏6}ابزارهای سنجش استفاده‌پذیری}{29}{section.3.6}
+\contentsline {chapter}{منابع و مراجع}{30}{appendix*.22}
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{34}{appendix*.23}
 \contentsfinish 

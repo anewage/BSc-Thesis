@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.12.8)  4 AUG 2018 03:09
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.12.8)  10 AUG 2018 01:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1751,7 +1751,7 @@ Package amsthm Warning: Unknown theoremstyle `theorem' on input line 135.
 
 \c@savepage=\count322
 ) (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
-(./appendix1.aux) (./dicfa2en.aux) (./en-abstract.aux))
+(./dicfa2en.aux) (./en-abstract.aux))
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -2077,10 +2077,6 @@ m (toc, 0): 15.00002pt
 C (toc, 0): 0.0pt
 a (toc, 0): 11.22028pt
 A (toc, 0): 0.0pt
-m (toc, 0): 15.00002pt
-C (toc, 0): 0.0pt
-a (toc, 0): 11.22028pt
-A (toc, 0): 0.0pt
 )
 \tf@toc=\write7
 \openout7 = `AUTthesis.toc'.
@@ -2246,10 +2242,19 @@ File: Resources/heir.PNG Graphic file (type QTm)
  <use  "Resources/heir.PNG" > [14]
 File: Resources/wagner.PNG Graphic file (type QTm)
 
-<use  "Resources/wagner.PNG" > [15] [16] [17]
-File: Resources/assessment.PNG Graphic file (type QTm)
+<use  "Resources/wagner.PNG" > [15] [16]
 
-<use  "Resources/assessment.PNG" > [18] [19] [20]
+LaTeX Warning: Reference `footdir@35' on page 17 undefined on input line 117.
+
+
+LaTeX Warning: Reference `footdir@36' on page 17 undefined on input line 117.
+
+
+LaTeX Warning: Reference `footdir@38' on page 17 undefined on input line 117.
+
+[17]
+File: Resources/assessment.PNG Graphic file (type QTm)
+ <use  "Resources/assessment.PNG" > [18] [19] [20]
 File: Resources/kano_model.PNG Graphic file (type QTm)
 
 <use  "Resources/kano_model.PNG" > [21]
@@ -2268,16 +2273,16 @@ File: Resources/kano_undesired.PNG Graphic file (type QTm)
 <use  "Resources/kano_undesired.PNG" >
 File: Resources/kano_model2.PNG Graphic file (type QTm)
  <use  "Resources/kano_model2.PNG" >
-Underfull \hbox (badness 10000) in paragraph at lines 279--315
+Underfull \hbox (badness 10000) in paragraph at lines 293--329
 [][]
  []
 
-[22]
+[22] [23]
 Overfull \vbox (6.54495pt too high) has occurred while \output is active []
 
 
-[23] [24] [25]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 420
+[24] [25] [26]
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 434
 .
  (c:/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -2286,50 +2291,51 @@ Missing character: There is no ب in font [lmmono10-regular]!
 Missing character: There is no ا in font [lmmono10-regular]!
 Missing character: There is no ی in font [lmmono10-regular]!
 Missing character: There is no د in font [lmmono10-regular]!
- [26]
-[27]) [28] (./AUTthesis.bbl
+ [27]
+[28]) [29] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
 (Font)              scaled to size 27.36815pt on input line 4.
- [29
+ [30
 
 
-] [30] [31]) [32]
-\openout2 = `appendix1.aux'.
-
- (./appendix1.tex) [33
-
-
-]
+] [31] [32]) [33]
 \openout2 = `dicfa2en.aux'.
 
-
-(./dicfa2en.tex [34
-
+ (./dicfa2en.tex [34
 
 
-] [35]) (./AUTthesis.ind)
+] [35])
 \openout2 = `en-abstract.aux'.
 
- (./en-abstract.tex) [36
+
+(./en-abstract.tex) [36
 
 
-]
-(./en_title.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
- (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux)
-(./chapter3.aux) (./appendix1.aux) (./dicfa2en.aux) (./en-abstract.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 95.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 95.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 95.
+] (./en_title.tex
+File: fa-logo.png Graphic file (type QTm)
+ <use  "fa-logo.png" > [37
+
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
+
+(./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+(./dicfa2en.aux) (./en-abstract.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 96.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 96.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
  ) 
 Here is how much of TeX's memory you used:
- 41164 strings out of 493638
- 769654 string characters out of 6147976
- 895155 words of memory out of 5000000
- 43755 multiletter control sequences out of 15000+600000
- 14026 words of font info for 107 fonts, out of 8000000 for 9000
+ 41156 strings out of 493638
+ 769853 string characters out of 6147976
+ 899165 words of memory out of 5000000
+ 43752 multiletter control sequences out of 15000+600000
+ 14066 words of font info for 112 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 57i,15n,89p,10433b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,17n,89p,10433b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (44 pages).
+Output written on AUTthesis.pdf (45 pages).

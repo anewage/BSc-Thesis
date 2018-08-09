@@ -45,8 +45,10 @@
 \cite{wagner_software_2012}.
 \begin{figure}[H]
 	\centering\includegraphics[width=11	cm]{Resources/heir.PNG}
-	\caption{ساختار مدل کیفی مک‌کال به عنوان یک مدل کیفی سلسله‌مراتبی
-		\cite{al-qutaish_quality_2010}
+	\caption[ساختار مدل کیفی مک‌کال به عنوان یک مدل کیفی سلسله‌مراتبی]
+	{ساختار مدل کیفی مک‌کال به عنوان یک مدل کیفی سلسله‌مراتبی
+		\cite{al-qutaish_quality_2010}؛
+		این دسته از مدل‌ها کیفیت را به خصیصه‌های خردتری تقسیم می‌کنند و مجددا هر خصیصه را به زیرخصیصه‌های خردتر تقسیم کرده و به همین منوال تا جایی پیش می‌روند که بتوان زیرخصیصه کیفی را به آسانی اندازه‌گیری و شاخصی برای آن تعیین کرد.
 	}
 	\label{fig:heir}
 \end{figure}
@@ -99,10 +101,20 @@
 \cite{albert_measuring_2013}
 می‌توان مطالعه استفاده‌پذیری و رسیدن به یک محصول استفاده‌پذیر را با چک‌لیست‌ها و مطالعات آزمایشگاهی نیز تامین کرد. به خصوص که مرجع
 \cite{wagner_software_2012}
-از کسب‌وکارهای زیادی نام می‌برد که از هیچ‌کدام از مدل‌های کیفیتی ارائه شده پیشین استفاده نمی‌کنند و از قضا سودآوری زیادی نیز دارند و موفقیت محصولاتشان از سایر رقبا بیشتر است.
-\begin{longtable}[c]{|c|c|c|C{6.8cm}|c|}
+از کسب‌وکارهای زیادی نام می‌برد که از هیچ‌کدام از مدل‌های کیفیتی ارائه شده پیشین استفاده نمی‌کنند و از قضا سودآوری زیادی نیز دارند و موفقیت محصولاتشان از سایر رقبا بیشتر است. توجه به این نکته حائز اهمیت است که با ارائه و بحث در مورد خصیصه‌هایی همچون خصیصه‌های مطرح در مرجع
+\cite{albert_measuring_2013}
+می‌توان انواع مطالعات مطرح در حوزه استفاده‌پذیری را انجام داد و تقریبا سناریویی نخواهد ماند که توسط این خصیصه‌ها مورد پوشش واقع نشوند. بنابراین با توجه به جدول
+\ref{tab:models}
+می‌توان نتیجه‌گیری کرد که این خصیصه‌ها، به طور خاص برای بررسی، مطالعه و در نهایت بیشینه کردن استفاده‌پذیری رابط‌های کاربری و همچنین تجربه کاربری، کفایت می‌کنند.
+\begin{longtable}[c]{|c|c|c|C{7cm}|c|}
 	\caption[مقایسه تطبیقی مدل‌های کیفیتی ارائه شده با تمرکز بر استفاده‌پذیری]
-	{مقایسه تطبیقی مدل‌های کیفیتی ارائه شده با تمرکز بر استفاده‌پذیری}
+	{مقایسه تطبیقی مدل‌های کیفیتی ارائه شده با تمرکز بر استفاده‌پذیری\RTLfootnote{
+			تمامی متریک‌های درج شده در جدول ترجمه شده عناوین انگلسی آن‌ها در منابع مختلف هستند؛ در نتیجه ممکن است در ابتدا گیج‌کننده به نظر بیایند. به منظور پی بردن به اصل اصطلاحات به
+			\hyperref[sec:glossary]{واژه‌نامه}
+			رجوع شود.
+	}؛
+	مدل‌های کیفیتی بسیاری از سال‌های ۱۹۷۰ تا به امروز ارائه شده‌اند که تعداد اندکی از آن‌ها به عنوان مدل‌های اصلی کیفیتی قلم‌داد می‌شوند و سلسه‌مراتبی هستند. این مدل‌های پایه‌ای، در ادامه به عنوان پایه و اساس برای توسعه مدل‌های کیفیتی دیگر (مبتنی برمتامدل) قرار داده شده‌اند که می‌توان گفت شمار زیادی از مدل‌های ارائه شده از این نوع هستند. بر این اساس، مدل‌هایی که بیشترین ارجاع در سال‌های گذشته به آن‌ها وجود داشته را طی این جدول بررسی کرده‌ایم.
+}
 	\label{tab:models} \\
 	\hline
 	\multicolumn{5}{| c |}{مقایسه تطبیقی مدل‌های کیفیتی}\\
@@ -123,25 +135,25 @@
 	
 	\hline
 	\endlastfoot
-	
-	1 & McCall & 1970 & Operability, Training, Communicativeness & \cite{mccall_factors_1977} \\ \hline
-	2 & Boehm & 1976 & Portability, Maintainability & \cite{boehm_quantitative_1976} \\ \hline
-	3 & \lr{IEEE 1061} & 1990 & Comprehensibility, Ease of Learning, Communicativeness & \cite{radatz_ieee_1990} \\ \hline
-	4 & Shackel & 1991 & Effectiveness, Learnability, Flexibility, Subjectively Pleasing & \cite{shackel_usability-context_1991} \\ \hline
-	5 & Bevan & 1991 & Type of Product, Type of User, Ease of Use, Acceptability & \cite{bevan_what_1991} \\ \hline
-	6 & FURPS & 1992 & Human Factors, Aesthetic, Documentation of the user, Material of Training & \cite{grady_practical_1992} \\ \hline
-	7 & Nielsen & 1994 & Learnability, Efficiency, Memorability, Errors, Satisfaction & \cite{nielsen_usability_1994} \\ \hline
-	8 & \lr{ISO 9126} & 2001 & Understandability, Learnability, Operability, Attractiveness, Usability Compliance & \cite{organization_iso/iec_1991}  \\ \hline
-	10 & Bertoa & 2002 & Understandability, Learnability, Operability & \cite{bertoa_quality_2002} \\ \hline
-	11 & Georgiadou & 2003 & Support, Learnability, Documentation Update, Online Help, Consistency & \cite{georgiadou_gequamogeneric_2003} \\ \hline
-	13 & Abran & 2003 & Efficiency, Effectiveness, Satisfaction, Learnability, Security & \cite{abran_usability_2003} \\ \hline
-	14 & Bass & 2003 & Modifiability, Scalability, Reusability, Performance, Security & \cite{bass_linking_2003} \\ \hline
-	15 & Schneiderman & 2005 & Time to learn, Speed of Performance, Rate of Errors by users, Retention over time, Subjective Satisfaction & \cite{shneiderman_designing_2004}  \\ \hline
-	16 & Rawashdeh & 2006 & Understandability, Learnability, Operability, Complexity & \cite{rawashdeh_new_2006} \\ \hline
-	17 & \lr{ISO 25010} & 2008 & Approprateness, Recognizability, Learnability, Operability, User Error Protection, User Interface Aesthetics, Accessibility & \cite{noauthor_iso_nodate}  \\ \hline
-	18 & Alvaro & 2010 & Understandability, Learnability, Operability & \cite{alvaro_quality_2005, alvaro_software_2010} \\ \hline
-	19 & Alonso-Rios و بقیه & 2010 & Knowability, Operability, Efficiency, Robustness, Safety, Subjective Satisfaction & \cite{alonso-rios_usability:_2009} \\ \hline
-	20 & Dubey و بقیه & 2011 & Effectiveness, Efficiency, Satisfaction, Learnability & \cite{kumardubey_usability_2012} \\ \hline
+	1 & \lr{McCall} & 1970 & عملیاتی بودن، آموزش، ارتباطاتی بودن & \cite{mccall_factors_1977} \\ \hline
+	2 & \lr{Boehm} & 1976 & ترابرپذیری، نگهداری‌پذیری & \cite{boehm_quantitative_1976} \\ \hline
+	3 & \lr{IEEE 1061} & 1990 & فهم‌پذیری، آسانی یادگیری، ارتباطاتی بودن & \cite{radatz_ieee_1990} \\ \hline
+	4 & \lr{Shackel} & 1991 & تاثیرگذاری، یادگیری‌پذیری، انعطاف‌پذیری، نگرش مثبت & \cite{shackel_usability-context_1991} \\ \hline
+	5 & \lr{Bevan} & 1991 & گونه محصول، گونه کاربر، راحتی استفاده، قابلیت پذیرش & \cite{bevan_what_1991} \\ \hline
+	6 & \lr{FURPS} & 1992 & فاکتورهای انسانی، زیبایی، مستندسازی، مفاد آموزشی & \cite{grady_practical_1992} \\ \hline
+	7 & \lr{Nielsen} & 1994 & یادگیری‌پذیری، بهره‌وری، خاطرسپاری‌پذیری، خطا، رضایت & \cite{nielsen_usability_1994} \\ \hline
+	8 & \lr{ISO 9126} & 2001 & درک‌پذیری، یادگیری‌پذیری، عملیاتی بودن، جذابیت، قبول استفاده‌پذیری & \cite{organization_iso/iec_1991}  \\ \hline
+	9 & \lr{Bertoa} & 2002 & درک‌پذیری، یادگیری‌پذیری، عملیاتی بودن & \cite{bertoa_quality_2002} \\ \hline
+	10 & \lr{Georgiadou} & 2003 & پشتیبانی، یادگیری پذیری، به‌روز بودن مستندات، کمک برخط، سازگاری & \cite{georgiadou_gequamogeneric_2003} \\ \hline
+	11 & \lr{Abran} & 2003 & بهره‌وری، تاثیرگذاری، رضایت، یادگیری‌پذیری، امنیت & \cite{abran_usability_2003} \\ \hline
+	12 & \lr{Bass} & 2003 & اصلاح‌پذیری، مقیاس‌پذیری، قابلیت استفاده مجدد، کارایی، امنیت & \cite{bass_linking_2003} \\ \hline
+	13 & \lr{Schneiderman} & 2005 & زمان آموزش، سرعت کارایی، نرخ خطاهای کاربر، بقای کاربران، رضایت منحصر به فرد & \cite{shneiderman_designing_2004}  \\ \hline
+	14 & \lr{Rawashdeh} & 2006 & درک‌پذیری، یادگیری‌پذیری، عملیاتی بودن، پیچیدگی & \cite{rawashdeh_new_2006} \\ \hline
+	15 & \lr{ISO 25010} & 2008 & تناسب، شناسایی‌پذیری، یادگیری‌پذیری، عملیاتی بودن، جلوگیری از خطای کاربری، زیبایی رابط کاربری، دسترس‌پذیری & \cite{noauthor_iso_nodate}  \\ \hline
+	16 & \lr{Alvaro} & 2010 & درک‌پذیری، یادگیری‌پذیری، عملیاتی بودن & \cite{alvaro_quality_2005, alvaro_software_2010} \\ \hline
+	17 & \lr{Alonso-Rios} و بقیه & 2010 & دانایی‌پذیری، عملیاتی بودن، بهره‌وری، استحکام، ایمنی، رضایت منحصر به فرد & \cite{alonso-rios_usability:_2009} \\ \hline
+	18 & \lr{Dubey} & 2012 & تاثیرگذاری، بهره‌وری، رضایت، یادگیری‌پذیری & \cite{kumardubey_usability_2012} \\ \hline
+	19 & \lr{Tullis} & 2013 & موفقیت‌آمیز بودن وظیفه، زمان انجام وظیفه، خطاها، بهره‌وری، یادگیری‌پذیری، خصیصه‌های موردی، خصیصه‌های خوداعلامی، خصیصه‌های فیزیولوژیکی و رفتاری، خصیصه‌های ترکیبی و مقایسه‌ای، خصیصه‌های وبسایت بلادرنگ، داده‌ مرتب‌سازی  & \cite{albert_measuring_2013} \\ \hline
 \end{longtable}
 شایان ذکر است که در همه مدل‌های ذکر شده، الزاما به استفاده‌پذیری به عنوان یک خصیصه اصلی در محصول اشاره نشده است؛ در بعضی از مدل‌ها همچون
 \lr{ISO 25010}
@@ -174,8 +186,10 @@
 }.\\
 \begin{figure}
 	\centering\includegraphics[width=10cm]{Resources/assessment.PNG}
-	\caption{مثالی از دو نوع ارزیابی مختلف خرد و کلان
-		\cite{noauthor_formative_nodate}
+	\caption[مثالی از دو نوع ارزیابی مختلف خرد و کلان]
+	{مثالی از دو نوع ارزیابی مختلف خرد و کلان
+		\cite{noauthor_formative_nodate}؛
+		در این مثال که توسعه‌دهنده نرم‌افزار به آشپز و محصول نهایی به غذای پخته شده توسط آشپز تشبیه شده، تفاوت دو نوع ارزیابی خرد و کلان مطرح شده؛ هنگامی که غذا در حین پخت و توسط آشپز به صورت خرد خرد و در فواصل زمانی کوتاه مورد سنجش قرار می‌گیرد شاهد ارزیابی خرد هستیم و در صورتی که غذا پس از پخت توسط یک منتقد یا مشتری مورد سنجش قرار گیرد، شاهد ارزیابی کلان خواهیم بود.
 	}
 	\label{fig:assessment}
 \end{figure}
@@ -249,19 +263,19 @@
 \cite{seffah_usability_2006}
 این متریک‌ها در سامانه‌های کاربردی مبتنی بر وب - که هدف اصلی این پروژه هستند - بسیار مهم و تاثیرگذارند. اما باید به این نکته توجه کرد که در محدوده سامانه‌های مبتنی بر وب، رضایت کاربر الزاما همیشه همراه با کارایی حداکثری وی در تعامل با سامانه نیست؛ فاکتورهای بسیاری از قبیل زیبایی و وجود تکنولوژی‌های مختلف، بر این رضایت تاثیر مستقیم دارند و چه بسا که کاربری با رضایت حداکثری از یک سامانه استفاده کند ولی کارایی عملیات وی بسیار پایین باشد.\\
 ویژگی‌های محصولی که کاربر با آن در تعامل است به عنوان یکی از اصلی‌ترین مدخل‌ها به بحث رضایت کاربری اهمیت دارند. در درجه دوم اما، کیفیت تعامل به عوامل دیگری همچون دانش قبلی کاربر و سن و جنسیت و غیره وابسته است. در ادامه مدلی برای تشخیص دادن ویژگی‌های محصول نهایی و اینکه کدام یک از آن‌ها و در چه شرایطی منجر به رضایت کاربری خواهند شد معرفی می‌شود.
+\paragraph{مدل کانو}
+که در سال ۱۹۸۴ و توسط آقای کانو
+\cite{kano_attractive_1984}
+برای تمییز دادن ویژگی‌های اشتیاق‌برانگیز و صریح و همچنین ویژگی‌های ضمنی و بایدی یک محصول، ارائه شد. طی این مدل، کیفیت محصول نهایی در گرو پنج دسته از نیازمندی‌های زیر است که رسیدن به هر دسته از این‌ها نیازمند اتخاذ سیاست‌های مختلف در طول ساخت محصول است:
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=7cm]{Resources/kano_model.PNG}
+	\includegraphics[width=9cm]{Resources/kano_model.PNG}
 	\caption[تعبیری از مدل کانو]	{
 		تعبیری از مدل کانو
 		\cite{noauthor_kano_2018}
 	}
 	\label{fig:kano}
 \end{figure}
-\paragraph{مدل کانو}
-که در سال ۱۹۸۴ و توسط آقای کانو
-\cite{kano_attractive_1984}
-برای تمییز دادن ویژگی‌های اشتیاق‌برانگیز و صریح و همچنین ویژگی‌های ضمنی و بایدی یک محصول، ارائه شد. طی این مدل، کیفیت محصول نهایی در گرو پنج دسته از نیازمندی‌های زیر است که رسیدن به هر دسته از این‌ها نیازمند اتخاذ سیاست‌های مختلف در طول ساخت محصول است:
 \begin{itemize}
 	\item 
 	نیازمندی‌های بایدی: که مشتریان به طور ضمنی خواستار آن‌ها هستند و ممکن است صریحا بیان نشوند. به عنوان مثال اینکه یک سامانه کاربردی مبتنی بر وب همیشه با یک آدرس اینترنتی خاص
@@ -364,27 +378,27 @@
 		\hline
 		‏هدف و سناریوی مطالعه استفاده‌پذیری
 		& 
-		\rotatebox{90}{‏موفقیت‌آمیز بودن وظایف}
+		\rotatebox{90}{‏موفقیت‌آمیز بودن وظیفه}
 		& 
-		\rotatebox{90}{زمان انجام وظایف}
+		\rotatebox{90}{زمان انجام وظیفه}
 		& 
 		\rotatebox{90}{خطاها}
 		& 
-		\rotatebox{90}{کارایی}
+		\rotatebox{90}{بهره‌وری}
 		& 
 		\rotatebox{90}{یادگیری‌پذیری}
 		& 
-		\rotatebox{90}{متریک‌های مبتنی بر موضوع}
+		\rotatebox{90}{خصیصه‌های موردی}
 		& 
-		\rotatebox{90}{متریک‌های خوداعلامی}
+		\rotatebox{90}{خصیصه‌های خوداعلامی}
 		& 
-		\rotatebox{90}{متریک‌های رفتاری و روانشناسانه}
+		\rotatebox{90}{خصیصه‌های فیزیولوژیکی و رفتاری}
 		& 
-		\rotatebox{90}{متریک‌های ترکیبی و مقایسه‌ای}
+		\rotatebox{90}{خصیصه‌های ترکیبی و مقایسه‌ای}
 		& 
-		\rotatebox{90}{متریک‌های وبسایت زنده}
+		\rotatebox{90}{خصیصه‌های وبسایت بلادرنگ}
 		& 
-		\rotatebox{90}{داده‌های مرتب}
+		\rotatebox{90}{داده‌ مرتب‌سازی}
 		\\ \hline
 		انجام یک تراکنش & × &  &  & × &  & × & × &  &  & × &  \\ \hline
 		مقایسه محصولات & × &  &  & × &  &  & × &  & × &  &  \\ \hline
