@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.12.8)  10 AUG 2018 01:03
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.12.8)  13 AUG 2018 15:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2061,10 +2061,14 @@ m (toc, 2): 32.00002pt
 C (toc, 2): 33.80048pt
 a (toc, 2): 39.66039pt
 A (toc, 2): 33.80048pt
-m (toc, 1): 23.00006pt
-C (toc, 1): 11.22028pt
-a (toc, 1): 22.5802pt
-A (toc, 1): 11.22028pt
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
+m (toc, 2): 32.00002pt
+C (toc, 2): 33.80048pt
+a (toc, 2): 39.66039pt
+A (toc, 2): 33.80048pt
 m (toc, 1): 23.00006pt
 C (toc, 1): 11.22028pt
 a (toc, 1): 22.5802pt
@@ -2126,6 +2130,10 @@ m (lof, 1): 23.00006pt
 C (lof, 1): 15.00002pt
 a (lof, 1): 22.5802pt
 A (lof, 1): 15.00002pt
+m (lof, 1): 23.00006pt
+C (lof, 1): 15.00002pt
+a (lof, 1): 22.5802pt
+A (lof, 1): 15.00002pt
 )
 \tf@lof=\write8
 \openout8 = `AUTthesis.lof'.
@@ -2133,6 +2141,10 @@ A (lof, 1): 15.00002pt
  [5
 
 ] (./AUTthesis.lot
+m (lot, 1): 23.00006pt
+C (lot, 1): 15.00002pt
+a (lot, 1): 22.5802pt
+A (lot, 1): 15.00002pt
 m (lot, 1): 23.00006pt
 C (lot, 1): 15.00002pt
 a (lot, 1): 22.5802pt
@@ -2281,8 +2293,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 293--329
 Overfull \vbox (6.54495pt too high) has occurred while \output is active []
 
 
-[24] [25] [26]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 434
+[24] [25] [26] [27]
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 436
 .
  (c:/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -2291,36 +2303,43 @@ Missing character: There is no ب in font [lmmono10-regular]!
 Missing character: There is no ا in font [lmmono10-regular]!
 Missing character: There is no ی in font [lmmono10-regular]!
 Missing character: There is no د in font [lmmono10-regular]!
- [27]
-[28]) [29] (./AUTthesis.bbl
+
+[28] [29] [30]
+File: Resources/sort1.PNG Graphic file (type QTm)
+ <use  "Resources/sort1.PNG" >
+File: Resources/sort2.PNG Graphic file (type QTm)
+ <use  "Resources/sort2.PNG" >
+File: Resources/sort3.PNG Graphic file (type QTm)
+
+<use  "Resources/sort3.PNG" > [31] [32]) [33] [34] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
 (Font)              scaled to size 27.36815pt on input line 4.
- [30
+ [35
 
 
-] [31] [32]) [33]
+]
+[36] [37]) [38]
 \openout2 = `dicfa2en.aux'.
 
- (./dicfa2en.tex [34
+ (./dicfa2en.tex [39
 
 
-] [35])
+] [40])
 \openout2 = `en-abstract.aux'.
 
+ (./en-abstract.tex) [41
 
-(./en-abstract.tex) [36
 
-
-] (./en_title.tex
+]
+(./en_title.tex
 File: fa-logo.png Graphic file (type QTm)
- <use  "fa-logo.png" > [37
+ <use  "fa-logo.png" > [42
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
-
-(./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
-(./dicfa2en.aux) (./en-abstract.aux))
+ (./AUTthesis.aux (./chapter1.aux)
+(./chapter2.aux) (./chapter3.aux) (./dicfa2en.aux) (./en-abstract.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 96.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 96.
 
@@ -2330,12 +2349,12 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
  ) 
 Here is how much of TeX's memory you used:
- 41156 strings out of 493638
- 769853 string characters out of 6147976
- 899165 words of memory out of 5000000
- 43752 multiletter control sequences out of 15000+600000
+ 41190 strings out of 493638
+ 770344 string characters out of 6147976
+ 899166 words of memory out of 5000000
+ 43783 multiletter control sequences out of 15000+600000
  14066 words of font info for 112 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  57i,17n,89p,10433b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (45 pages).
+Output written on AUTthesis.pdf (50 pages).

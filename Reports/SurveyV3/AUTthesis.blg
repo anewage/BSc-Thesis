@@ -4,68 +4,57 @@ The top-level auxiliary file: AUTthesis.aux
 A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
-The style file: plain-fa.bst
+The style file: ieeetr-fa.bst
 A level-1 auxiliary file: dicfa2en.aux
 A level-1 auxiliary file: en-abstract.aux
 Database file #1: survey.bib
-Warning--to sort, need author or key in noauthor_bluffton_2018
-Warning--to sort, need author or key in noauthor_computing_nodate
-Warning--to sort, need author or key in noauthor_dblp:_nodate
-Warning--to sort, need author or key in noauthor_scimago_nodate
-Warning--to sort, need author or key in noauthor_iso_nodate
-Warning--to sort, need author or key in noauthor_measuringu:_2018
-Warning--to sort, need author or key in noauthor_progressive_nodate
-Warning--to sort, need author or key in noauthor_formative_nodate
-Warning--to sort, need author or key in noauthor_kano_2018
-Warning--to sort, need author or key in noauthor_leveraging_2012
-Warning--to sort, need author or key in noauthor_sean_nodate
--- plain-fa.bst version 0.9 (2015/05/09) 
+-- ieeetr-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 Warning--empty journal in al-qutaish_quality_2010
-Warning--empty journal in alvaro_quality_2005
-Warning--empty journal in bertoa_quality_2002
 Warning--empty publisher in organization_iso/iec_1991
+Warning--empty journal in bertoa_quality_2002
+Warning--empty journal in alvaro_quality_2005
 
 Done.
-You've used 50 entries,
-            2546 wiz_defined-function locations,
-            889 strings with 12841 characters,
-and the built_in function-call counts, 15795 in all, are:
-= -- 1498
-> -- 541
-< -- 11
-+ -- 228
-- -- 172
-* -- 911
-:= -- 2225
-add.period$ -- 136
-call.type$ -- 50
-change.case$ -- 354
+You've used 52 entries,
+            2349 wiz_defined-function locations,
+            877 strings with 12680 characters,
+and the built_in function-call counts, 13016 in all, are:
+= -- 1304
+> -- 342
+< -- 0
++ -- 141
+- -- 89
+* -- 708
+:= -- 1513
+add.period$ -- 73
+call.type$ -- 52
+change.case$ -- 171
 chr.to.int$ -- 0
-cite$ -- 65
-duplicate$ -- 600
-empty$ -- 1267
-format.name$ -- 172
-if$ -- 3744
+cite$ -- 56
+duplicate$ -- 586
+empty$ -- 1220
+format.name$ -- 89
+if$ -- 3541
 int.to.chr$ -- 0
-int.to.str$ -- 50
-missing$ -- 401
-newline$ -- 434
-num.names$ -- 78
-pop$ -- 327
+int.to.str$ -- 52
+missing$ -- 387
+newline$ -- 396
+num.names$ -- 40
+pop$ -- 230
 preamble$ -- 1
-purify$ -- 183
+purify$ -- 0
 quote$ -- 0
-skip$ -- 445
+skip$ -- 408
 stack$ -- 0
-substring$ -- 757
-swap$ -- 115
-text.length$ -- 11
+substring$ -- 618
+swap$ -- 199
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 174
-warning$ -- 15
-while$ -- 128
-width$ -- 52
-write$ -- 646
-(There were 15 warnings)
+type$ -- 0
+warning$ -- 4
+while$ -- 107
+width$ -- 54
+write$ -- 631
+(There were 4 warnings)

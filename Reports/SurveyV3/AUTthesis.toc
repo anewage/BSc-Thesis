@@ -30,19 +30,31 @@
 \contentsline {paragraph}{کارایی}{21}{section*.16}
 \contentsline {paragraph}{رضایت}{21}{section*.17}
 \contentsline {paragraph}{مدل کانو}{21}{section*.18}
-\contentsline {section}{\numberline {3‏-‏4}سناریوهای مطالعه استفاده‌پذیری و خصیصه‌های مطرح در هرکدام}{25}{section.3.4}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏1}انجام یک تراکنش}{26}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏2}مقایسه محصولات}{27}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏3}ارزیابی استفاده مکرر از محصول}{27}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏4}ارزیابی پیمایش و معماری اطلاعات سامانه}{27}{subsection.3.4.4}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏5}افزایش آگاهی}{27}{subsection.3.4.5}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏6}کشف مشکل}{27}{subsection.3.4.6}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏7}حداکثرسازی استفاده‌پذیری یک محصول حیاتی}{28}{subsection.3.4.7}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏8}ایجاد تجربه کاربری مثبت}{28}{subsection.3.4.8}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏9}ارزیابی تاثیرات تغییرات جزئی و نامحسوس}{28}{subsection.3.4.9}
-\contentsline {subsection}{\numberline {3‏-‏4‏-‏10}مقایسه طراحی‌های مختلف}{28}{subsection.3.4.10}
-\contentsline {section}{\numberline {3‏-‏5}روش‌های سنجش استفاده‌پذیری}{29}{section.3.5}
-\contentsline {section}{\numberline {3‏-‏6}ابزارهای سنجش استفاده‌پذیری}{29}{section.3.6}
-\contentsline {chapter}{منابع و مراجع}{30}{appendix*.22}
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{34}{appendix*.23}
+\contentsline {section}{\numberline {3‏-‏4}سناریو‌های سنجش استفاده‌پذیری و خصیصه‌های هرکدام}{25}{section.3.4}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏1}سناریو‌های مطرح در مطالعه استفاده‌پذیری}{26}{subsection.3.4.1}
+\contentsline {subsubsection}{انجام یک تراکنش}{26}{section*.22}
+\contentsline {subsubsection}{مقایسه محصولات}{27}{section*.23}
+\contentsline {subsubsection}{ارزیابی استفاده مکرر از محصول}{27}{section*.24}
+\contentsline {subsubsection}{ارزیابی پیمایش و معماری اطلاعات سامانه}{27}{section*.25}
+\contentsline {subsubsection}{افزایش آگاهی}{27}{section*.26}
+\contentsline {subsubsection}{کشف مشکل}{27}{section*.27}
+\contentsline {subsubsection}{حداکثرسازی استفاده‌پذیری یک محصول حیاتی}{28}{section*.28}
+\contentsline {subsubsection}{ایجاد تجربه کاربری مثبت}{28}{section*.29}
+\contentsline {subsubsection}{ارزیابی تاثیرات تغییرات جزئی و نامحسوس}{28}{section*.30}
+\contentsline {subsubsection}{مقایسه طراحی‌های مختلف}{28}{section*.31}
+\contentsline {paragraph}{خصیصه‌های مرتبط با کارایی}{29}{section*.32}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏2}موفقیت‌آمیز بودن وظیفه}{29}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏3}زمان انجام وظیفه}{29}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏4}خطاها}{29}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏5}بهره‌وری}{29}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏6}یادگیری پذیری}{30}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏7}خصیصه‌های موردی}{30}{subsection.3.4.7}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏8}خصیصه‌های خود اعلامی}{30}{subsection.3.4.8}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏9}خصیصه‌های فیزیولوژیکی و رفتاری}{31}{subsection.3.4.9}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏10}خصیصه های ترکیبی و مقایسه‌ای}{31}{subsection.3.4.10}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏11}خصیصه‌های وبسایت بلادرنگ}{31}{subsection.3.4.11}
+\contentsline {subsection}{\numberline {3‏-‏4‏-‏12}الگوهای مرتب‌سازی}{31}{subsection.3.4.12}
+\contentsline {section}{\numberline {3‏-‏5}روش‌های سنجش استفاده‌پذیری}{33}{section.3.5}
+\contentsline {chapter}{منابع و مراجع}{35}{appendix*.35}
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{39}{appendix*.36}
 \contentsfinish 
