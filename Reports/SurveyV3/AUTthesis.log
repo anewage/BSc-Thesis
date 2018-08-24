@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.12.8)  13 AUG 2018 15:13
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.12.8)  25 AUG 2018 01:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -27,24 +27,247 @@ File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )) (./commands.tex
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2016/03/03 v3.3 programmable bibliographies (PK/JW/AB)
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex_legacy.sty
+Package: biblatex_legacy 2016/03/03 v3.3 programmable bibliographies (bibtex) (
+PK/JW/AB)
+
+(c:/texlive/2015/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count88
+)
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2015/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count89
+
+(c:/texlive/2015/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(c:/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count90
+\c@listtotal=\count91
+\c@listcount=\count92
+\c@liststart=\count93
+\c@liststop=\count94
+\c@citecount=\count95
+\c@citetotal=\count96
+\c@multicitecount=\count97
+\c@multicitetotal=\count98
+\c@instcount=\count99
+\c@maxnames=\count100
+\c@minnames=\count101
+\c@maxitems=\count102
+\c@minitems=\count103
+\c@citecounter=\count104
+\c@savedcitecounter=\count105
+\c@uniquelist=\count106
+\c@uniquename=\count107
+\c@refsection=\count108
+\c@refsegment=\count109
+\c@maxextrayear=\count110
+\c@maxextraalpha=\count111
+\c@abbrvpenalty=\count112
+\c@highnamepenalty=\count113
+\c@lownamepenalty=\count114
+\c@maxparens=\count115
+\c@parenlevel=\count116
+\blx@tempcnta=\count117
+\blx@tempcntb=\count118
+\blx@tempcntc=\count119
+\blx@maxsection=\count120
+\blx@maxsegment=\count121
+\blx@notetype=\count122
+\blx@parenlevel@text=\count123
+\blx@parenlevel@foot=\count124
+\labelnumberwidth=\skip43
+\labelalphawidth=\skip44
+\shorthandwidth=\skip45
+\biblabelsep=\skip46
+\bibitemsep=\skip47
+\bibnamesep=\skip48
+\bibinitsep=\skip49
+\bibparsep=\skip50
+\bibhang=\skip51
+\blx@auxin=\read1
+\blx@auxout=\write3
+\c@mincomprange=\count125
+\c@maxcomprange=\count126
+\c@mincompwidth=\count127
+\c@labelname=\count128
+\c@savedlabelname=\count129
+\c@author=\count130
+\c@savedauthor=\count131
+\c@shortauthor=\count132
+\c@savedshortauthor=\count133
+\c@editor=\count134
+\c@savededitor=\count135
+\c@editora=\count136
+\c@savededitora=\count137
+\c@editorb=\count138
+\c@savededitorb=\count139
+\c@editorc=\count140
+\c@savededitorc=\count141
+\c@shorteditor=\count142
+\c@savedshorteditor=\count143
+\c@bookauthor=\count144
+\c@savedbookauthor=\count145
+\c@translator=\count146
+\c@savedtranslator=\count147
+\c@annotator=\count148
+\c@savedannotator=\count149
+\c@commentator=\count150
+\c@savedcommentator=\count151
+\c@introduction=\count152
+\c@savedintroduction=\count153
+\c@foreword=\count154
+\c@savedforeword=\count155
+\c@afterword=\count156
+\c@savedafterword=\count157
+\c@holder=\count158
+\c@savedholder=\count159
+\c@namea=\count160
+\c@savednamea=\count161
+\c@nameb=\count162
+\c@savednameb=\count163
+\c@namec=\count164
+\c@savednamec=\count165
+\c@institution=\count166
+\c@savedinstitution=\count167
+\c@language=\count168
+\c@savedlanguage=\count169
+\c@location=\count170
+\c@savedlocation=\count171
+\c@organization=\count172
+\c@savedorganization=\count173
+\c@origlocation=\count174
+\c@savedoriglocation=\count175
+\c@origpublisher=\count176
+\c@savedorigpublisher=\count177
+\c@pageref=\count178
+\c@savedpageref=\count179
+\c@publisher=\count180
+\c@savedpublisher=\count181
+\c@lista=\count182
+\c@savedlista=\count183
+\c@listb=\count184
+\c@savedlistb=\count185
+\c@listc=\count186
+\c@savedlistc=\count187
+\c@listd=\count188
+\c@savedlistd=\count189
+\c@liste=\count190
+\c@savedliste=\count191
+\c@listf=\count192
+\c@savedlistf=\count193
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2016/03/03 v3.3 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex_legacy.def' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex_legacy.def
+File: biblatex_legacy.def 
+\c@textcitecount=\count194
+\c@textcitetotal=\count195
+\c@textcitemaxnames=\count196
+\c@biburlnumpenalty=\count197
+\c@biburlucpenalty=\count198
+\c@biburllcpenalty=\count199
+\c@smartand=\count266
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+File: ieee.bbx 2015/03/12 v1.1k biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count267
+\c@bbx:relatedtotal=\count268
+)))
+
+Package biblatex Warning: 'firstinits' option is deprecated, use 'giveninits' i
+nstead.
+
+)
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+ (c:/texlive/2015/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+File: ieee.cbx 2015/03/12 v1.1k biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
+\c@cbx@tempcnta=\count269
+\c@cbx@tempcntb=\count270
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
 (c:/texlive/2015/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
-\thm@style=\toks14
-\thm@bodyfont=\toks15
-\thm@headfont=\toks16
-\thm@notefont=\toks17
-\thm@headpunct=\toks18
-\thm@preskip=\skip43
-\thm@postskip=\skip44
-\thm@headsep=\skip45
-\dth@everypar=\toks19
+\thm@style=\toks15
+\thm@bodyfont=\toks16
+\thm@headfont=\toks17
+\thm@notefont=\toks18
+\thm@headpunct=\toks19
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks20
 )
 (c:/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (c:/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks20
+\@emptytoks=\toks21
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
@@ -52,7 +275,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/03 v2.15a AMS math features
-\@mathmargin=\skip46
+\@mathmargin=\skip55
 
 For additional information on amsmath, use the `?' option.
 (c:/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -60,7 +283,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks21
+\@emptytoks=\toks22
 \ex@=\dimen103
 ))
 (c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -70,13 +293,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count88
+\inf@bad=\count271
 LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count89
-\leftroot@=\count90
+\uproot@=\count272
+\leftroot@=\count273
 LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count91
-\DOTSCASE@=\count92
+\classnum@=\count274
+\DOTSCASE@=\count275
 LaTeX Info: Redefining \ldots on input line 394.
 LaTeX Info: Redefining \dots on input line 397.
 LaTeX Info: Redefining \cdots on input line 518.
@@ -85,36 +308,32 @@ LaTeX Info: Redefining \cdots on input line 518.
 \big@size=\dimen105
 LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
-\macc@depth=\count93
-\c@MaxMatrixCols=\count94
-\dotsspace@=\muskip10
-\c@parentequation=\count95
-\dspbrk@lvl=\count96
-\tag@help=\toks22
-\row@=\count97
-\column@=\count98
-\maxfields@=\count99
-\andhelp@=\toks23
+\macc@depth=\count276
+\c@MaxMatrixCols=\count277
+\dotsspace@=\muskip11
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
+\tag@help=\toks23
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
+\andhelp@=\toks24
 \eqnshift@=\dimen106
 \alignsep@=\dimen107
 \tagshift@=\dimen108
 \tagwidth@=\dimen109
 \totwidth@=\dimen110
 \lineht@=\dimen111
-\@envbody=\toks24
-\multlinegap=\skip47
-\multlinetaggap=\skip48
-\mathdisplay@stack=\toks25
+\@envbody=\toks25
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2735.
 LaTeX Info: Redefining \] on input line 2736.
 )
 (c:/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(c:/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks26
-)
 (c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is not detected.
@@ -126,9 +345,9 @@ Package ifvtex Info: VTeX not detected.
 (c:/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count100
-\Gm@cntv=\count101
-\c@Gm@tempcnt=\count102
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
 \Gm@bindingoffset=\dimen112
 \Gm@wd@mp=\dimen113
 \Gm@odd@mp=\dimen114
@@ -144,8 +363,8 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen120
 \extrarowheight=\dimen121
 \NC@list=\toks28
-\extratabsurround=\skip49
-\backup@length=\skip50
+\extratabsurround=\skip58
+\backup@length=\skip59
 )
 (c:/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen122
@@ -179,13 +398,9 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 (c:/texlive/2015/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-
-(c:/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\c@r@tfl@t=\count103
-\rotFPtop=\skip51
-\rotFPbot=\skip52
+\c@r@tfl@t=\count286
+\rotFPtop=\skip60
+\rotFPbot=\skip61
 \rot@float@box=\box28
 \rot@mess@toks=\toks29
 )
@@ -212,7 +427,7 @@ Package tocstyle Warning: THIS IS AN ALPHA VERSION!
 (tocstyle)                THERE IS NO SUPPORT, IF YOU USE THIS PACKAGE!
 (tocstyle)                Maybe it would be better, not to load this package.
 
-\tocstyle@indentstyle=\count104
+\tocstyle@indentstyle=\count287
 Package tocstyle Info: no tocstyle.cfg found on input line 856.
 )
 exclude: 
@@ -235,49 +450,49 @@ Package: titletoc 2011/12/15 v1.6 TOC entries
 (c:/texlive/2015/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 44.
-\cftparskip=\skip53
-\cftbeforetoctitleskip=\skip54
-\cftaftertoctitleskip=\skip55
-\cftbeforepartskip=\skip56
-\cftpartnumwidth=\skip57
-\cftpartindent=\skip58
-\cftbeforechapskip=\skip59
-\cftchapindent=\skip60
-\cftchapnumwidth=\skip61
-\cftbeforesecskip=\skip62
-\cftsecindent=\skip63
-\cftsecnumwidth=\skip64
-\cftbeforesubsecskip=\skip65
-\cftsubsecindent=\skip66
-\cftsubsecnumwidth=\skip67
-\cftbeforesubsubsecskip=\skip68
-\cftsubsubsecindent=\skip69
-\cftsubsubsecnumwidth=\skip70
-\cftbeforeparaskip=\skip71
-\cftparaindent=\skip72
-\cftparanumwidth=\skip73
-\cftbeforesubparaskip=\skip74
-\cftsubparaindent=\skip75
-\cftsubparanumwidth=\skip76
-\cftbeforeloftitleskip=\skip77
-\cftafterloftitleskip=\skip78
-\cftbeforefigskip=\skip79
-\cftfigindent=\skip80
-\cftfignumwidth=\skip81
-\c@lofdepth=\count105
-\c@lotdepth=\count106
-\cftbeforelottitleskip=\skip82
-\cftafterlottitleskip=\skip83
-\cftbeforetabskip=\skip84
-\cfttabindent=\skip85
-\cfttabnumwidth=\skip86
+\cftparskip=\skip62
+\cftbeforetoctitleskip=\skip63
+\cftaftertoctitleskip=\skip64
+\cftbeforepartskip=\skip65
+\cftpartnumwidth=\skip66
+\cftpartindent=\skip67
+\cftbeforechapskip=\skip68
+\cftchapindent=\skip69
+\cftchapnumwidth=\skip70
+\cftbeforesecskip=\skip71
+\cftsecindent=\skip72
+\cftsecnumwidth=\skip73
+\cftbeforesubsecskip=\skip74
+\cftsubsecindent=\skip75
+\cftsubsecnumwidth=\skip76
+\cftbeforesubsubsecskip=\skip77
+\cftsubsubsecindent=\skip78
+\cftsubsubsecnumwidth=\skip79
+\cftbeforeparaskip=\skip80
+\cftparaindent=\skip81
+\cftparanumwidth=\skip82
+\cftbeforesubparaskip=\skip83
+\cftsubparaindent=\skip84
+\cftsubparanumwidth=\skip85
+\cftbeforeloftitleskip=\skip86
+\cftafterloftitleskip=\skip87
+\cftbeforefigskip=\skip88
+\cftfigindent=\skip89
+\cftfignumwidth=\skip90
+\c@lofdepth=\count288
+\c@lotdepth=\count289
+\cftbeforelottitleskip=\skip91
+\cftafterlottitleskip=\skip92
+\cftbeforetabskip=\skip93
+\cfttabindent=\skip94
+\cfttabnumwidth=\skip95
 )
 (c:/texlive/2015/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks30
 \footnotemargin=\dimen126
-\c@pp@next@reset=\count107
-\c@@fnserial=\count108
+\c@pp@next@reset=\count290
+\c@@fnserial=\count291
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -289,15 +504,15 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 )
 (c:/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip87
+\labelindent=\skip96
 \enit@outerparindent=\dimen127
 \enit@toks=\toks31
 \enit@inbox=\box29
-\enitdp@description=\count109
+\enitdp@description=\count292
 )
 (c:/texlive/2015/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count110
+\c@float@type=\count293
 \float@exts=\toks32
 \float@box=\box30
 \@float@everytoks=\toks33
@@ -320,21 +535,21 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen133
 \caption@hangindent=\dimen134
 )
-\c@ContinuedFloat=\count111
+\c@ContinuedFloat=\count294
 Package caption Info: float package is loaded.
 Package caption Info: rotating package is loaded.
 )
-\c@KVtest=\count112
-\sf@farskip=\skip88
+\c@KVtest=\count295
+\sf@farskip=\skip97
 \sf@captopadj=\dimen135
-\sf@capskip=\skip89
-\sf@nearskip=\skip90
-\c@subfigure=\count113
-\c@subfigure@save=\count114
-\c@subtable=\count115
-\c@subtable@save=\count116
-\sf@top=\skip91
-\sf@bottom=\skip92
+\sf@capskip=\skip98
+\sf@nearskip=\skip99
+\c@subfigure=\count296
+\c@subfigure@save=\count297
+\c@subtable=\count298
+\c@subtable@save=\count299
+\sf@top=\skip100
+\sf@bottom=\skip101
 )
 (c:/texlive/2015/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
@@ -348,30 +563,30 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen143
 \cmidrulekern=\dimen144
 \defaultaddspace=\dimen145
-\@cmidla=\count117
-\@cmidlb=\count118
+\@cmidla=\count300
+\@cmidlb=\count301
 \@aboverulesep=\dimen146
 \@belowrulesep=\dimen147
-\@thisruleclass=\count119
-\@lastruleclass=\count120
+\@thisruleclass=\count302
+\@lastruleclass=\count303
 \@thisrulewidth=\dimen148
 )
 (c:/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip93
-\LTright=\skip94
-\LTpre=\skip95
-\LTpost=\skip96
-\LTchunksize=\count121
+\LTleft=\skip102
+\LTright=\skip103
+\LTpre=\skip104
+\LTpost=\skip105
+\LTchunksize=\count304
 \LTcapwidth=\dimen149
 \LT@head=\box32
 \LT@firsthead=\box33
 \LT@foot=\box34
 \LT@lastfoot=\box35
-\LT@cols=\count122
-\LT@rows=\count123
-\c@LT@tables=\count124
-\c@LT@chunks=\count125
+\LT@cols=\count305
+\LT@rows=\count306
+\c@LT@tables=\count307
+\c@LT@chunks=\count308
 \LT@p@ftn=\toks34
 )
 (c:/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -385,10 +600,10 @@ Package xcolor Info: Driver file: xetex.def on input line 225.
 (c:/texlive/2015/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 \everycr=\toks35
-\minrowclearance=\skip97
+\minrowclearance=\skip106
 )
 LaTeX Info: Redefining \color on input line 702.
-\rownum=\count126
+\rownum=\count309
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
 Package xcolor Info: Model `RGB' extended on input line 1353.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
@@ -440,7 +655,6 @@ Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
 Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
@@ -452,13 +666,13 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen150
-\Hy@linkcounter=\count127
-\Hy@pagecounter=\count128
+\Hy@linkcounter=\count310
+\Hy@pagecounter=\count311
 
 (c:/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count129
+\Hy@SavedSpaceFactor=\count312
 
 (c:/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -471,15 +685,10 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count130
-
-(c:/texlive/2015/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip11
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
+\c@Hy@tempcnt=\count313
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen151
-\Fld@menulength=\count131
+\Fld@menulength=\count314
 \Field@Width=\dimen152
 \Fld@charsize=\dimen153
 Package hyperref Info: Hyper figures OFF on input line 6295.
@@ -491,9 +700,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count132
-\c@Item=\count133
-\c@Hfootnote=\count134
+\Hy@abspage=\count315
+\c@Item=\count316
+\c@Hfootnote=\count317
 )
 
 Package hyperref Message: Driver (autodetected): hxetex.
@@ -509,10 +718,10 @@ Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
 )
 )
 \pdfm@box=\box36
-\c@Hy@AnnotLevel=\count135
-\HyField@AnnotCount=\count136
-\Fld@listcount=\count137
-\c@bookmark@seq@number=\count138
+\c@Hy@AnnotLevel=\count318
+\HyField@AnnotCount=\count319
+\Fld@listcount=\count320
+\c@bookmark@seq@number=\count321
 
 (c:/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
@@ -523,7 +732,7 @@ Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 tly
 (rerunfilecheck)             and the loading of the package is aborted.
 )
-\Hy@SectionHShift=\skip98
+\Hy@SectionHShift=\skip107
 )
 (c:/texlive/2015/texmf-dist/tex/latex/cleveref/cleveref.sty
 Package: cleveref 2013/12/28 v0.19 Intelligent cross-referencing
@@ -546,15 +755,15 @@ Package cleveref Info: include cross-reference names in hyperlinks on input lin
 e 7493.
 )
 (c:/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip99
-\f@ncyO@elh=\skip100
-\f@ncyO@erh=\skip101
-\f@ncyO@olh=\skip102
-\f@ncyO@orh=\skip103
-\f@ncyO@elf=\skip104
-\f@ncyO@erf=\skip105
-\f@ncyO@olf=\skip106
-\f@ncyO@orf=\skip107
+\fancy@headwidth=\skip108
+\f@ncyO@elh=\skip109
+\f@ncyO@erh=\skip110
+\f@ncyO@olh=\skip111
+\f@ncyO@orh=\skip112
+\f@ncyO@elf=\skip113
+\f@ncyO@erf=\skip114
+\f@ncyO@olf=\skip115
+\f@ncyO@orf=\skip116
 )
 (c:/texlive/2015/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
@@ -568,20 +777,20 @@ Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
 (c:/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
-\c@tracingmulticols=\count139
+\c@tracingmulticols=\count322
 \mult@box=\box37
 \multicol@leftmargin=\dimen154
-\c@unbalance=\count140
-\c@collectmore=\count141
-\doublecol@number=\count142
-\multicoltolerance=\count143
-\multicolpretolerance=\count144
+\c@unbalance=\count323
+\c@collectmore=\count324
+\doublecol@number=\count325
+\multicoltolerance=\count326
+\multicolpretolerance=\count327
 \full@width=\dimen155
 \page@free=\dimen156
 \premulticols=\dimen157
 \postmulticols=\dimen158
-\multicolsep=\skip108
-\multicolbaselineskip=\skip109
+\multicolsep=\skip117
+\multicolbaselineskip=\skip118
 \partial@page=\box38
 \last@line=\box39
 \maxbalancingoverflow=\dimen159
@@ -606,14 +815,14 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \@tempa=\box58
 \@tempa=\box59
 \@tempa=\box60
-\c@columnbadness=\count145
-\c@finalcolumnbadness=\count146
+\c@columnbadness=\count328
+\c@finalcolumnbadness=\count329
 \last@try=\dimen160
 \multicolovershoot=\dimen161
 \multicolundershoot=\dimen162
 \mult@nat@firstbox=\box61
 \colbreak@box=\box62
-\mc@col@check@num=\count147
+\mc@col@check@num=\count330
 )
 (c:/texlive/2015/texmf-dist/tex/generic/xypic/xy.sty
 (c:/texlive/2015/texmf-dist/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
@@ -655,14 +864,14 @@ Loading kernel: messages; fonts; allocations: state,
  direction,
 \d@X=\dimen186
 \d@Y=\dimen187
-\K@=\count148
-\KK@=\count149
-\Direction=\count150
+\K@=\count331
+\KK@=\count332
+\Direction=\count333
 \K@dXdY=\dimen188
 \K@dYdX=\dimen189
-\xyread@=\read1
-\xywrite@=\write3
-\csp@=\count151
+\xyread@=\read2
+\xywrite@=\write4
+\csp@=\count334
 \quotPTK@=\dimen190
 
 utility macros; pictures: \xy, positions,
@@ -679,7 +888,7 @@ Package: xy 2013/10/06 Xy-pic version 3.8.9
  Xy-pic option: All features v.3.8
 (c:/texlive/2015/texmf-dist/tex/generic/xypic/xycurve.tex
  Xy-pic option: Curve and Spline extension v.3.12 curve,
-\crv@cnt@=\count152
+\crv@cnt@=\count335
 \crvpts@=\toks40
 \splinebox@=\box66
 \splineval@=\dimen191
@@ -705,13 +914,13 @@ Package: xy 2013/10/06 Xy-pic version 3.8.9
  Xy-pic option: Colour extension v.3.11 loaded)
 (c:/texlive/2015/texmf-dist/tex/generic/xypic/xymatrix.tex
  Xy-pic option: Matrix feature v.3.14
-\Row=\count153
-\Col=\count154
+\Row=\count336
+\Col=\count337
 \queue@=\toks41
 \queue@@=\toks42
-\qcount@=\count155
-\qcount@@=\count156
-\matrixsize@=\count157
+\qcount@=\count338
+\qcount@@=\count339
+\matrixsize@=\count340
  loaded)
 (c:/texlive/2015/texmf-dist/tex/generic/xypic/xyarrow.tex
  Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
@@ -757,12 +966,12 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 \pgf@yb=\dimen260
 \pgf@xc=\dimen261
 \pgf@yc=\dimen262
-\w@pgf@writea=\write4
-\r@pgf@reada=\read2
-\c@pgf@counta=\count158
-\c@pgf@countb=\count159
-\c@pgf@countc=\count160
-\c@pgf@countd=\count161
+\w@pgf@writea=\write5
+\r@pgf@reada=\read3
+\c@pgf@counta=\count341
+\c@pgf@countb=\count342
+\c@pgf@countc=\count343
+\c@pgf@countd=\count344
 \t@pgf@toka=\toks47
 \t@pgf@tokb=\toks48
 \t@pgf@tokc=\toks49
@@ -780,12 +989,12 @@ File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )
-\pgfsys@objnum=\count162
+\pgfsys@objnum=\count345
 )))
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count163
-\pgfsyssoftpath@bigbuffer@items=\count164
+\pgfsyssoftpath@smallbuffer@items=\count346
+\pgfsyssoftpath@bigbuffer@items=\count347
 )
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
@@ -797,7 +1006,7 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen263
-\pgfmath@count=\count165
+\pgfmath@count=\count348
 \pgfmath@box=\box68
 \pgfmath@toks=\toks50
 \pgfmath@stack@operand=\toks51
@@ -821,7 +1030,7 @@ x)
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
 etics.code.tex)))
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count166
+\c@pgfmathroundto@lastzeros=\count349
 ))
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
@@ -857,7 +1066,7 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box69
 \pgf@hbox=\box70
 \pgf@layerbox@main=\box71
-\pgf@picture@serial@count=\count167
+\pgf@picture@serial@count=\count350
 )
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
 .tex
@@ -888,7 +1097,7 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen287
-\pgf@sys@shading@range@num=\count168
+\pgf@sys@shading@range@num=\count351
 )
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
@@ -943,7 +1152,7 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
 de.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count169
+\pgf@plot@mark@count=\count352
 \pgfplotmarksize=\dimen292
 )
 \tikz@lastx=\dimen293
@@ -956,18 +1165,18 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@figbox@bg=\box75
 \tikz@tempbox=\box76
 \tikz@tempbox@bg=\box77
-\tikztreelevel=\count170
-\tikznumberofchildren=\count171
-\tikznumberofcurrentchild=\count172
-\tikz@fig@count=\count173
+\tikztreelevel=\count353
+\tikznumberofchildren=\count354
+\tikznumberofcurrentchild=\count355
+\tikz@fig@count=\count356
 
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count174
-\pgfmatrixcurrentcolumn=\count175
-\pgf@matrix@numberofcolumns=\count176
+\pgfmatrixcurrentrow=\count357
+\pgfmatrixcurrentcolumn=\count358
+\pgf@matrix@numberofcolumns=\count359
 )
-\tikz@expandcount=\count177
+\tikz@expandcount=\count360
 
 (c:/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarytopaths.code.tex
@@ -984,10 +1193,10 @@ File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks55
 \verbatim@line=\toks56
-\verbatim@in@stream=\read3
+\verbatim@in@stream=\read4
 )
-\@indexfile=\write5
-\openout5 = `AUTthesis.idx'.
+\@indexfile=\write6
+\openout6 = `AUTthesis.idx'.
 
 
 Writing index file AUTthesis.idx
@@ -1012,24 +1221,24 @@ L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
 L3 Module: l3str 2016/01/03 v6357 L3 Strings
 L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
 L3 Module: l3int 2016/01/05 v6366 L3 Integers
-\c_max_int=\count178
-\l_tmpa_int=\count179
-\l_tmpb_int=\count180
-\g_tmpa_int=\count181
-\g_tmpb_int=\count182
+\c_max_int=\count361
+\l_tmpa_int=\count362
+\l_tmpb_int=\count363
+\g_tmpa_int=\count364
+\g_tmpb_int=\count365
 L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
 L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
-\g__prg_map_int=\count183
+\g__prg_map_int=\count366
 L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
 L3 Module: l3token 2015/11/11 v6249 L3 Experimental token manipulation
 L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
 L3 Module: l3msg 2015/09/28 v6113 L3 Messages
 L3 Module: l3file 2015/12/03 v6317 L3 File and I/O operations
-\l_iow_line_count_int=\count184
-\l__iow_target_count_int=\count185
-\l__iow_current_line_int=\count186
-\l__iow_current_word_int=\count187
-\l__iow_current_indentation_int=\count188
+\l_iow_line_count_int=\count367
+\l__iow_target_count_int=\count368
+\l__iow_current_line_int=\count369
+\l__iow_current_word_int=\count370
+\l__iow_current_indentation_int=\count371
 L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \c_zero_dim=\dimen300
 \c_max_dim=\dimen301
@@ -1037,12 +1246,12 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \l_tmpb_dim=\dimen303
 \g_tmpa_dim=\dimen304
 \g_tmpb_dim=\dimen305
-\c_zero_skip=\skip110
-\c_max_skip=\skip111
-\l_tmpa_skip=\skip112
-\l_tmpb_skip=\skip113
-\g_tmpa_skip=\skip114
-\g_tmpb_skip=\skip115
+\c_zero_skip=\skip119
+\c_max_skip=\skip120
+\l_tmpa_skip=\skip121
+\l_tmpb_skip=\skip122
+\g_tmpa_skip=\skip123
+\g_tmpb_skip=\skip124
 \c_zero_muskip=\muskip12
 \c_max_muskip=\muskip13
 \l_tmpa_muskip=\muskip14
@@ -1050,18 +1259,18 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
 L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
-\g__keyval_level_int=\count189
-\l_keys_choice_int=\count190
+\g__keyval_level_int=\count372
+\l_keys_choice_int=\count373
 L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
-\c__fp_leading_shift_int=\count191
-\c__fp_middle_shift_int=\count192
-\c__fp_trailing_shift_int=\count193
-\c__fp_big_leading_shift_int=\count194
-\c__fp_big_middle_shift_int=\count195
-\c__fp_big_trailing_shift_int=\count196
-\c__fp_Bigg_leading_shift_int=\count197
-\c__fp_Bigg_middle_shift_int=\count198
-\c__fp_Bigg_trailing_shift_int=\count199
+\c__fp_leading_shift_int=\count374
+\c__fp_middle_shift_int=\count375
+\c__fp_trailing_shift_int=\count376
+\c__fp_big_leading_shift_int=\count377
+\c__fp_big_middle_shift_int=\count378
+\c__fp_big_trailing_shift_int=\count379
+\c__fp_Bigg_leading_shift_int=\count380
+\c__fp_Bigg_middle_shift_int=\count381
+\c__fp_Bigg_trailing_shift_int=\count382
 L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
 \c_empty_box=\box78
 \l_tmpa_box=\box79
@@ -1114,24 +1323,24 @@ File: l3xdvidpfmx.def 2015/11/11 v6250 L3 Experimental driver: xdvipdfmx
 ))
 (c:/texlive/2015/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count266
-\l__xparse_m_args_int=\count267
-\l__xparse_mandatory_args_int=\count268
-\l__xparse_processor_int=\count269
-\l__xparse_v_nesting_int=\count270
+\l__xparse_current_arg_int=\count383
+\l__xparse_m_args_int=\count384
+\l__xparse_mandatory_args_int=\count385
+\l__xparse_processor_int=\count386
+\l__xparse_v_nesting_int=\count387
 )
 Package: fontspec 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTeX
 
 (c:/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
 X
-\l_fontspec_script_int=\count271
-\l_fontspec_language_int=\count272
-\l_fontspec_strnum_int=\count273
+\l_fontspec_script_int=\count388
+\l_fontspec_language_int=\count389
+\l_fontspec_strnum_int=\count390
 \l__fontspec_tmpa_dim=\dimen331
 \l__fontspec_tmpb_dim=\dimen332
 \l__fontspec_tmpc_dim=\dimen333
-\g__file_internal_ior=\read4
+\g__file_internal_ior=\read5
 
 (c:/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
@@ -1157,7 +1366,7 @@ LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
 (c:/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmss.fd
 File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
-\tipaTiiicode=\count274
+\tipaTiiicode=\count391
 \tipasavetokens=\toks57
 \tipachecktokens=\toks58
 )
@@ -1266,15 +1475,15 @@ File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 . 
 . Defining command \DeclareFontsExtensions with sig. 'm' on line 599.
 .................................................
-\l__fontspec_tmp_int=\count275
+\l__fontspec_tmp_int=\count392
 
 (c:/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.cfg)
 LaTeX Info: Redefining \itshape on input line 2705.
 LaTeX Info: Redefining \slshape on input line 2710.
 LaTeX Info: Redefining \scshape on input line 2715.
 LaTeX Info: Redefining \upshape on input line 2720.
-\l__fontspec_em_int=\count276
-\l__fontspec_emdef_int=\count277
+\l__fontspec_em_int=\count393
+\l__fontspec_emdef_int=\count394
 LaTeX Info: Redefining \em on input line 2736.
 LaTeX Info: Redefining \emph on input line 2742.
 LaTeX Info: Redefining \- on input line 2746.
@@ -1291,43 +1500,43 @@ LaTeX Info: Redefining \- on input line 2746.
 ))
 (c:/texlive/2015/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count278
-\XePersian@y=\count279
-\XePersian@m=\count280
-\XePersian@d=\count281
-\XePersian@latini=\count282
-\XePersian@persiani=\count283
-\XePersian@latinii=\count284
-\XePersian@persianii=\count285
-\XePersian@latiniii=\count286
-\XePersian@persianiii=\count287
-\XePersian@latiniv=\count288
-\XePersian@persianiv=\count289
-\XePersian@latinv=\count290
-\XePersian@persianv=\count291
-\XePersian@latinvi=\count292
-\XePersian@persianvi=\count293
-\XePersian@latinvii=\count294
-\XePersian@persianvii=\count295
-\XePersian@latinviii=\count296
-\XePersian@persianviii=\count297
-\XePersian@latinix=\count298
-\XePersian@persianix=\count299
-\XePersian@latinx=\count300
-\XePersian@persianx=\count301
-\XePersian@latinxi=\count302
-\XePersian@persianxi=\count303
-\XePersian@latinxii=\count304
-\XePersian@persianxii=\count305
-\XePersian@persianxiii=\count306
-\XePersian@temp=\count307
-\XePersian@temptwo=\count308
-\XePersian@tempthree=\count309
-\XePersian@yModHundred=\count310
-\XePersian@thirtytwo=\count311
-\XePersian@dn=\count312
-\XePersian@sn=\count313
-\XePersian@mminusone=\count314
+\XePersian@i=\count395
+\XePersian@y=\count396
+\XePersian@m=\count397
+\XePersian@d=\count398
+\XePersian@latini=\count399
+\XePersian@persiani=\count400
+\XePersian@latinii=\count401
+\XePersian@persianii=\count402
+\XePersian@latiniii=\count403
+\XePersian@persianiii=\count404
+\XePersian@latiniv=\count405
+\XePersian@persianiv=\count406
+\XePersian@latinv=\count407
+\XePersian@persianv=\count408
+\XePersian@latinvi=\count409
+\XePersian@persianvi=\count410
+\XePersian@latinvii=\count411
+\XePersian@persianvii=\count412
+\XePersian@latinviii=\count413
+\XePersian@persianviii=\count414
+\XePersian@latinix=\count415
+\XePersian@persianix=\count416
+\XePersian@latinx=\count417
+\XePersian@persianx=\count418
+\XePersian@latinxi=\count419
+\XePersian@persianxi=\count420
+\XePersian@latinxii=\count421
+\XePersian@persianxii=\count422
+\XePersian@persianxiii=\count423
+\XePersian@temp=\count424
+\XePersian@temptwo=\count425
+\XePersian@tempthree=\count426
+\XePersian@yModHundred=\count427
+\XePersian@thirtytwo=\count428
+\XePersian@dn=\count429
+\XePersian@sn=\count430
+\XePersian@mminusone=\count431
 )
 (c:/texlive/2015/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigitspec.sty
 Package: xepersian-mathsdigitspec 2015/12/07 v1.1.1 Unicode Persian maths digit
@@ -1417,7 +1626,7 @@ Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
 Package zref Info: New property: page on input line 761.
 )
-\c@abspage=\count315
+\c@abspage=\count432
 Package zref Info: New property: abspage on input line 62.
 )
 (c:/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -1428,7 +1637,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks61
 \XKV@tempa@toks=\toks62
 )
-\XKV@depth=\count316
+\XKV@depth=\count433
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (c:/texlive/2015/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
@@ -1439,7 +1648,7 @@ or XeTeX engine
 (c:/texlive/2015/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2015/11/14 v0.9 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count317
+\c@footdir@label=\count434
 \footdir@toks=\toks64
 )
 (c:/texlive/2015/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
@@ -1630,7 +1839,7 @@ age
 (c:/texlive/2015/texmf-dist/tex/xelatex/xepersian/book-xepersian.def
 File: book-xepersian.def 2010/07/25 v0.2 adaptations for standard book class
 )
-\g__fontspec_family_lmroman10-regular_int=\count318
+\g__fontspec_family_lmroman10-regular_int=\count435
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1672,7 +1881,7 @@ lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmromancaps1
 Package: bidi-longtable 2012/12/12 v0.1 typesetting bidi longtables in XeTeX en
 gine (experimental)
 )
-\g__fontspec_family_Yas_int=\count319
+\g__fontspec_family_Yas_int=\count436
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1692,7 +1901,7 @@ gine (experimental)
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
-(Font)              scaled to size 11.00006pt on input line 78.
+(Font)              scaled to size 11.00006pt on input line 81.
 
 *************************************************
 * fontspec warning: "language-not-exist"
@@ -1700,7 +1909,7 @@ LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
 * Language 'Parsi' not available for font 'IranNastaliq' with script 'Parsi'.
 * 'Default' language used instead.
 *************************************************
-\g__fontspec_family_IranNastaliq_int=\count320
+\g__fontspec_family_IranNastaliq_int=\count437
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1745,13 +1954,22 @@ LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
 . <->s*[3]"Yas/BI/OT:script=arab;language=FAR;mapping=parsidigits;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-\c@definition=\count321
+\c@definition=\count438
 
-Package amsthm Warning: Unknown theoremstyle `theorem' on input line 135.
+Package amsthm Warning: Unknown theoremstyle `theorem' on input line 138.
 
-\c@savepage=\count322
-) (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
-(./dicfa2en.aux) (./en-abstract.aux))
+\c@savepage=\count439
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (c:/texlive/2015/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
+)
+\@quotelevel=\count440
+\@quotereset=\count441
+
+(./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+(./appendix1.aux) (./dicfa2en.aux) (./en-abstract.aux))
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -1779,6 +1997,29 @@ LaTeX Font Info:    Try loading font information for T3+cmr on input line 41.
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 41.
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+
+
+Package biblatex Warning: Data encoding is 'utf8'.
+(biblatex)                Use backend=biber.
+
+\openout3 = `AUTthesis-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'AUTthesis.bbl' found.
+(./AUTthesis.bbl
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with '___1389':
+(biblatex)                - Invalid format of field 'date' 
+(biblatex)                - Invalid format of field 'date'.
+
+)
+Package biblatex Info: Reference section=0 on input line 41.
+Package biblatex Info: Reference segment=0 on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1874,15 +2115,15 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (c:/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count323
+\c@section@level=\count442
 )
 LaTeX Info: Redefining \ref on input line 41.
 LaTeX Info: Redefining \pageref on input line 41.
 LaTeX Info: Redefining \nameref on input line 41.
 
 (./AUTthesis.out) (./AUTthesis.out)
-\@outlinefile=\write6
-\openout6 = `AUTthesis.out'.
+\@outlinefile=\write7
+\openout7 = `AUTthesis.out'.
 
  ABD: EveryShipout initializing macros
 Package tocstyle Info: prepare \l@part for redefinition on input line 41.
@@ -1924,7 +2165,7 @@ LaTeX Font Info:    Font shape `EU1/Yas(0)/bx/n' will be
 (Font)              scaled to size 15.84007pt on input line 41.
 ) (./TOC-TOF-LOT.tex [1
 
-] [2]
+]
 LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
 (Font)              scaled to size 19.0081pt on input line 7.
 LaTeX Font Info:    Font shape `EU1/Yas(0)/bx/n' will be
@@ -2054,7 +2295,7 @@ m (toc, 2): 32.00002pt
 C (toc, 2): 33.80048pt
 a (toc, 2): 39.66039pt
 A (toc, 2): 33.80048pt
-[3
+[2
 
 ]
 m (toc, 2): 32.00002pt
@@ -2073,6 +2314,10 @@ m (toc, 1): 23.00006pt
 C (toc, 1): 11.22028pt
 a (toc, 1): 22.5802pt
 A (toc, 1): 11.22028pt
+m (toc, 1): 23.00006pt
+C (toc, 1): 11.22028pt
+a (toc, 1): 22.5802pt
+A (toc, 1): 11.22028pt
 m (toc, 0): 15.00002pt
 C (toc, 0): 0.0pt
 a (toc, 0): 11.22028pt
@@ -2082,10 +2327,14 @@ C (toc, 0): 0.0pt
 a (toc, 0): 11.22028pt
 A (toc, 0): 0.0pt
 )
-\tf@toc=\write7
-\openout7 = `AUTthesis.toc'.
+\tf@toc=\write8
+\openout8 = `AUTthesis.toc'.
 
- [4] (./AUTthesis.lof
+ [3] (./AUTthesis.lof
+m (lof, 1): 23.00006pt
+C (lof, 1): 15.00002pt
+a (lof, 1): 22.5802pt
+A (lof, 1): 15.00002pt
 m (lof, 1): 23.00006pt
 C (lof, 1): 15.00002pt
 a (lof, 1): 22.5802pt
@@ -2135,10 +2384,10 @@ C (lof, 1): 15.00002pt
 a (lof, 1): 22.5802pt
 A (lof, 1): 15.00002pt
 )
-\tf@lof=\write8
-\openout8 = `AUTthesis.lof'.
+\tf@lof=\write9
+\openout9 = `AUTthesis.lof'.
 
- [5
+ [4
 
 ] (./AUTthesis.lot
 m (lot, 1): 23.00006pt
@@ -2157,32 +2406,21 @@ m (lot, 1): 23.00006pt
 C (lot, 1): 15.00002pt
 a (lot, 1): 22.5802pt
 A (lot, 1): 15.00002pt
+m (lot, 1): 23.00006pt
+C (lot, 1): 15.00002pt
+a (lot, 1): 22.5802pt
+A (lot, 1): 15.00002pt
+m (lot, 1): 23.00006pt
+C (lot, 1): 15.00002pt
+a (lot, 1): 22.5802pt
+A (lot, 1): 15.00002pt
 )
-\tf@lot=\write9
-\openout9 = `AUTthesis.lot'.
+\tf@lot=\write10
+\openout10 = `AUTthesis.lot'.
 
- [6
+ [5
 
-]) (./list-of-symbols.tex
-LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
-(Font)              scaled to size 7.70004pt on input line 13.
-LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
-(Font)              scaled to size 5.50003pt on input line 13.
-LaTeX Font Info:    Try loading font information for U+euf on input line 28.
-
-(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/ueuf.fd
-File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-)
-Underfull \hbox (badness 10000) in paragraph at lines 13--68
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--68
-[][]
- []
-
-[7
+]) (./list-of-symbols.tex [6
 
 
 ])
@@ -2200,6 +2438,8 @@ LaTeX Font Info:    Font shape `EU1/Yas(1)/bx/n' will be
 
 
 ]
+LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
+(Font)              scaled to size 7.70004pt on input line 7.
 LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
 (Font)              scaled to size 8.80005pt on input line 7.
 LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
@@ -2311,50 +2551,101 @@ File: Resources/sort2.PNG Graphic file (type QTm)
  <use  "Resources/sort2.PNG" >
 File: Resources/sort3.PNG Graphic file (type QTm)
 
-<use  "Resources/sort3.PNG" > [31] [32]) [33] [34] (./AUTthesis.bbl
+<use  "Resources/sort3.PNG" > [31] [32] [33]
+Overfull \hbox (2.64894pt too wide) in paragraph at lines 621--636
+ [][][][] 
+ []
+
+[34]
+File: Resources/tools_category.pdf Graphic file (type QTm)
+ <use  "Resources/tools_category.pdf" >) [35] [36] [37
+
+
+] [38]
+Overfull \hbox (6.2171pt too wide) in paragraph at lines 83--83
+[][]\EU1/lmroman10-regular(0)/m/n/10 (). Progressive web apps  |  web  |  googl
+e developers, [Online]. Available: [][][]$[][][][][] [] [] [] [][][][][][][][][
+][] []$[][]
+ []
+
+[39]
+Overfull \hbox (0.10962pt too wide) in paragraph at lines 83--83
+[][]\EU1/lmroman10-regular(0)/m/n/10 N. KANO, “Attractive quality and must-be q
+uality,” \EU1/lmroman10-regular(0)/m/it/10 Hinshitsu (Quality, the Journal of J
+apanese[]
+ []
+
+
+Overfull \hbox (12.49709pt too wide) in paragraph at lines 83--83
+[][]\EU1/lmroman10-regular(0)/m/n/10 (). Card sorting software | optimal worksh
+op, [Online]. Available: [][][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][
+][][][][][][] []$[][]
+ []
+
+[40]
+\openout2 = `appendix1.aux'.
+
+ (./appendix1.tex
 LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
-(Font)              scaled to size 27.36815pt on input line 4.
- [35
+(Font)              scaled to size 27.36815pt on input line 1.
+ [41
 
 
 ]
-[36] [37]) [38]
+Overfull \vbox (13.27466pt too high) detected at line 15
+ []
+
+
+Overfull \vbox (13.27466pt too high) detected at line 42
+ []
+
+
+Overfull \hbox (5.90175pt too wide) in paragraph at lines 80--80
+ [][]|[]\EU1/lmroman10-regular(0)/m/n/10 CrossBrowserTesting[]|[] 
+ []
+
+[42] [43] [44]) [45]
 \openout2 = `dicfa2en.aux'.
 
- (./dicfa2en.tex [39
+ (./dicfa2en.tex [46
 
 
-] [40])
+
+] [47] [48])
 \openout2 = `en-abstract.aux'.
 
- (./en-abstract.tex) [41
+ (./en-abstract.tex)
+[49
 
 
-]
-(./en_title.tex
+] (./en_title.tex
 File: fa-logo.png Graphic file (type QTm)
- <use  "fa-logo.png" > [42
+ <use  "fa-logo.png" > [50
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
- (./AUTthesis.aux (./chapter1.aux)
-(./chapter2.aux) (./chapter3.aux) (./dicfa2en.aux) (./en-abstract.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 96.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 96.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
+ (./AUTthesis.aux
+(./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./appendix1.aux)
+(./dicfa2en.aux) (./en-abstract.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 100.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 100.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
- ) 
-Here is how much of TeX's memory you used:
- 41190 strings out of 493638
- 770344 string characters out of 6147976
- 899166 words of memory out of 5000000
- 43783 multiletter control sequences out of 15000+600000
- 14066 words of font info for 112 fonts, out of 8000000 for 9000
- 1328 hyphenation exceptions out of 8191
- 57i,17n,89p,10433b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
+Package logreq Info: Writing requests to 'AUTthesis.run.xml'.
+\openout1 = `AUTthesis.run.xml'.
 
-Output written on AUTthesis.pdf (50 pages).
+ )
+(\end occurred when \iftrue on line 41 was incomplete) 
+Here is how much of TeX's memory you used:
+ 45962 strings out of 493638
+ 853955 string characters out of 6147976
+ 1230829 words of memory out of 5000000
+ 48498 multiletter control sequences out of 15000+600000
+ 12894 words of font info for 108 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 57i,17n,89p,10433b,1099s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on AUTthesis.pdf (57 pages).

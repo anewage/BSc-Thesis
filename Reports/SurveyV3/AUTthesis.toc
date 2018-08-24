@@ -1,60 +1,122 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
 \edef \SavedTocDepth {\the \value {tocdepth}}
+\defcounter {refsection}{0}\relax 
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست اشکال}{ه}{section*.2}
-\contentsline {chapter}{فهرست جداول}{و}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{فهرست اشکال}{د}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{فهرست جداول}{ه}{section*.3}
+\defcounter {refsection}{0}\relax 
 \par عنوان\hfill صفحه \par 
+\defcounter {refsection}{0}\relax 
 \setcounter {tocdepth}{\SavedTocDepth }
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1‏-‏1}کیفیت در نرم‌افزار}{2}{section.1.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1‏-‏1‏-‏1}تضمین و کنترل کیفیت}{3}{subsection.1.1.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1‏-‏1‏-‏2}کیفیت در سامانه‌های نرم‌افزاری مبتنی بر وب}{4}{subsection.1.1.2}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1‏-‏2}مشخصه‌های کیفی نرم‌افزار}{4}{section.1.2}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1‏-‏2‏-‏1}کارآیی}{4}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{استفاده‌پذیری و لایه‌های طراحی سامانه‌های مبتنی بر وب}{6}{section*.6}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1‏-‏3}چرخه طراحی سامانه‌های مبتنی بر وب}{6}{section.1.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1‏-‏3‏-‏1}تلفیق نگاه مهندسی و هنری}{7}{subsection.1.3.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1‏-‏4}جمع‌سپاری}{8}{section.1.4}
+\defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{جمع‌سپاری}{8}{section*.9}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1‏-‏4‏-‏1}جمع‌سپاری برای جمع‌آوری داده}{8}{subsection.1.4.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}شیوه پژوهش‌}{10}{chapter.2}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}مروری بر کارهای گذشته، روش‌ها و ابزارهای موجود}{13}{chapter.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3‏-‏1}مدل‌های کیفیتی}{14}{section.3.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏1‏-‏1}مدل‌های سلسله‌مراتبی}{14}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏1‏-‏2}مدل‌های مبتنی بر متامدل}{16}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏1‏-‏3}مدل‌های آماری و ضمنی}{16}{subsection.3.1.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3‏-‏2}تمرکز بر استفاده‌پذیری روی مدل‌های کیفیتی}{16}{section.3.2}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3‏-‏3}مطالعه استفاده‌پذیری و ارزیابی تجربه کاربری}{18}{section.3.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏3‏-‏1}ارزیابی خرد}{19}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏3‏-‏2}ارزیابی کلان}{20}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏3‏-‏3}اهداف کاربری}{20}{subsection.3.3.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{کارایی}{21}{section*.16}
+\defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{رضایت}{21}{section*.17}
+\defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{مدل کانو}{21}{section*.18}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3‏-‏4}سناریو‌های سنجش استفاده‌پذیری و خصیصه‌های هرکدام}{25}{section.3.4}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏4‏-‏1}سناریو‌های مطرح در مطالعه استفاده‌پذیری}{26}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{انجام یک تراکنش}{26}{section*.22}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{مقایسه محصولات}{27}{section*.23}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{ارزیابی استفاده مکرر از محصول}{27}{section*.24}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{ارزیابی پیمایش و معماری اطلاعات سامانه}{27}{section*.25}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{افزایش آگاهی}{27}{section*.26}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{کشف مشکل}{27}{section*.27}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{حداکثرسازی استفاده‌پذیری یک محصول حیاتی}{28}{section*.28}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{ایجاد تجربه کاربری مثبت}{28}{section*.29}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{ارزیابی تاثیرات تغییرات جزئی و نامحسوس}{28}{section*.30}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{مقایسه طراحی‌های مختلف}{28}{section*.31}
+\defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{خصیصه‌های مرتبط با کارایی}{29}{section*.32}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏4‏-‏2}موفقیت‌آمیز بودن وظیفه}{29}{subsection.3.4.2}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏4‏-‏3}زمان انجام وظیفه}{29}{subsection.3.4.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏4‏-‏4}خطاها}{29}{subsection.3.4.4}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏4‏-‏5}بهره‌وری}{29}{subsection.3.4.5}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏4‏-‏6}یادگیری پذیری}{30}{subsection.3.4.6}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏4‏-‏7}خصیصه‌های موردی}{30}{subsection.3.4.7}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏4‏-‏8}خصیصه‌های خود اعلامی}{30}{subsection.3.4.8}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏4‏-‏9}خصیصه‌های فیزیولوژیکی و رفتاری}{31}{subsection.3.4.9}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏4‏-‏10}خصیصه های ترکیبی و مقایسه‌ای}{31}{subsection.3.4.10}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏4‏-‏11}خصیصه‌های وبسایت بلادرنگ}{31}{subsection.3.4.11}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3‏-‏4‏-‏12}الگوهای مرتب‌سازی}{31}{subsection.3.4.12}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3‏-‏5}روش‌های سنجش استفاده‌پذیری}{33}{section.3.5}
-\contentsline {chapter}{منابع و مراجع}{35}{appendix*.35}
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{39}{appendix*.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3‏-‏6}ابزارهای مطالعه استفاده‌پذیری}{34}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\rl {پیوست}}{41}{appendix*.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{46}{appendix*.39}
 \contentsfinish 

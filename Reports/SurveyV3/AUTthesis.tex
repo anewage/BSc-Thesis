@@ -76,10 +76,14 @@
 %--------------------------------------------------------------------------appendix( مراجع و پیوست ها)
 \chapterfont{\vspace*{-2em}\centering\LARGE}%
 
-\appendix\label{sec:appendix}
-\bibliographystyle{ieeetr-fa}
-\bibliography{survey}
-%\include{appendix1}
+\appendix
+%\bibliographystyle{ieeetr-fa}
+%\bibliography{survey2}
+\begin{latin}
+	\printbibliography[title=\rl{منابع و مراجع}]
+\end{latin}
+
+\include{appendix1}
 %--------------------------------------------------------------------------dictionary(واژه نامه ها)
 %اگر مایل به داشتن صفحه واژه‌نامه نیستید، خط زیر را غیر فعال کنید.
 \parindent=0pt

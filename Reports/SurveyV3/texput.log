@@ -1,18 +1,18 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.12.8)  3 AUG 2018 23:06
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.12.8)  13 AUG 2018 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Survey.tex
+**survey2.tex
 
 ! Emergency stop.
-<*> Survey.tex
-              
+<*> survey2.tex
+               
 *** (job aborted, file error in nonstop mode)
 
  
 Here is how much of TeX's memory you used:
  2 strings out of 493638
- 16 string characters out of 6147976
+ 17 string characters out of 6147976
  53563 words of memory out of 5000000
  3505 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
