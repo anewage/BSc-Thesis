@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.12.8)  25 AUG 2018 10:29
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.12.8)  28 AUG 2018 14:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2507,10 +2507,7 @@ File: Resources/defect.PNG Graphic file (type QTm)
 <use  "Resources/defect.PNG" > [6] [7]) [8]
 \openout2 = `chapter2.aux'.
 
- (./chapter2.tex [9
-
-
-]
+ (./chapter2.tex
 فصل 2.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2518,16 +2515,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10
+[9
+
+
 
 ]
 File: Resources/ISLAB_methodology.pdf Graphic file (type QTm)
- <use  "Resources/ISLAB_methodology.pdf" > [11]) [12]
+ <use  "Resources/ISLAB_methodology.pdf" > [10]) [11]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
 فصل 3.
-[13
+[12
 
 
 
@@ -2535,25 +2534,25 @@ File: Resources/ISLAB_methodology.pdf Graphic file (type QTm)
 File: Resources/qmodels.PNG Graphic file (type QTm)
  <use  "Resources/qmodels.PNG" >
 File: Resources/heir.PNG Graphic file (type QTm)
- <use  "Resources/heir.PNG" > [14]
+ <use  "Resources/heir.PNG" > [13]
 File: Resources/wagner.PNG Graphic file (type QTm)
 
-<use  "Resources/wagner.PNG" > [15] [16]
+<use  "Resources/wagner.PNG" > [14] [15]
 
-LaTeX Warning: Reference `footdir@35' on page 17 undefined on input line 117.
-
-
-LaTeX Warning: Reference `footdir@36' on page 17 undefined on input line 117.
+LaTeX Warning: Reference `footdir@35' on page 16 undefined on input line 117.
 
 
-LaTeX Warning: Reference `footdir@38' on page 17 undefined on input line 117.
+LaTeX Warning: Reference `footdir@36' on page 16 undefined on input line 117.
 
-[17]
+
+LaTeX Warning: Reference `footdir@38' on page 16 undefined on input line 117.
+
+[16]
 File: Resources/assessment.PNG Graphic file (type QTm)
- <use  "Resources/assessment.PNG" > [18] [19] [20]
+ <use  "Resources/assessment.PNG" > [17] [18] [19]
 File: Resources/kano_model.PNG Graphic file (type QTm)
 
-<use  "Resources/kano_model.PNG" > [21]
+<use  "Resources/kano_model.PNG" > [20]
 File: Resources/kano_attractive.PNG Graphic file (type QTm)
 
 <use  "Resources/kano_attractive.PNG" >
@@ -2573,11 +2572,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 293--329
 [][]
  []
 
-[22] [23]
+[21] [22]
 Overfull \vbox (6.54495pt too high) has occurred while \output is active []
 
 
-[24] [25] [26] [27]
+[23] [24] [25] [26]
 LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 436
 .
  (c:/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
@@ -2588,14 +2587,14 @@ Missing character: There is no ا in font [lmmono10-regular]!
 Missing character: There is no ی in font [lmmono10-regular]!
 Missing character: There is no د in font [lmmono10-regular]!
 
-[28] [29] [30]
+[27] [28] [29]
 File: Resources/sort1.PNG Graphic file (type QTm)
  <use  "Resources/sort1.PNG" >
 File: Resources/sort2.PNG Graphic file (type QTm)
  <use  "Resources/sort2.PNG" >
 File: Resources/sort3.PNG Graphic file (type QTm)
 
-<use  "Resources/sort3.PNG" > [31] [32] [33]
+<use  "Resources/sort3.PNG" > [30] [31] [32]
 Overfull \hbox (2.64894pt too wide) in paragraph at lines 623--638
  [][][][] 
  []
@@ -2605,35 +2604,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 598--638
 [][]
  []
 
-[34]
+[33]
 File: Resources/tools_category.pdf Graphic file (type QTm)
  <use  "Resources/tools_category.pdf" >
 Underfull \hbox (badness 10000) in paragraph at lines 639--651
 [][]
  []
 
-[35] [36]
+[34] [35]
 Overfull \vbox (1.16193pt too high) has occurred while \output is active []
 
 
-[37]) [38]
+[36]) [37]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
 فصل 4.
-[39
+[38
 
 
 
 ]
 File: Resources/percentage.PNG Graphic file (type QTm)
- <use  "Resources/percentage.PNG" > [40]
+ <use  "Resources/percentage.PNG" > [39]
 Overfull \hbox (0.34476pt too wide) in paragraph at lines 55--57
 [][]\EU1/Yas(0)/m/n/10 مقایسه محصولات: با انجام این سناریو، می‌توان خصیصه‌های «
 موفقیت‌آمیز بودن وظیفه»، «بهره‌وری کاربر»، «خصیصه‌های[]
  []
 
-[41]
+[40]
 Overfull \hbox (15.998pt too wide) in paragraph at lines 72--73
 []\EU1/Yas(0)/m/n/10 «موفقیت‌آمیز بودن وظیفه»‌، «زمان انجام وظیفه»، «خصیصه‌های 
 موردی»، «خصیصه‌های خوداعلامی» و همچنین «خصیصه‌های[]
@@ -2645,7 +2644,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--114
 [][]
  []
 
-[42] [43]
+[41] [42]
 File: Resources/tool_1.PNG Graphic file (type QTm)
  <use  "Resources/tool_1.PNG" >
 File: Resources/tool_2.PNG Graphic file (type QTm)
@@ -2659,18 +2658,18 @@ File: Resources/tool_5.PNG Graphic file (type QTm)
 
 <use  "Resources/tool_5.PNG" >
 File: Resources/tool_6.PNG Graphic file (type QTm)
- <use  "Resources/tool_6.PNG" > [44] [45])
-[46] [47
+ <use  "Resources/tool_6.PNG" > [43] [44])
+[45] [46
 
 
-] [48]
+] [47]
 Overfull \hbox (6.2171pt too wide) in paragraph at lines 83--83
 [][]\EU1/lmroman10-regular(0)/m/n/10 (). Progressive web apps  |  web  |  googl
 e developers, [Online]. Available: [][][]$[][][][][] [] [] [] [][][][][][][][][
 ][] []$[][]
  []
 
-[49]
+[48]
 Overfull \hbox (0.10962pt too wide) in paragraph at lines 83--83
 [][]\EU1/lmroman10-regular(0)/m/n/10 N. KANO, “Attractive quality and must-be q
 uality,” \EU1/lmroman10-regular(0)/m/it/10 Hinshitsu (Quality, the Journal of J
@@ -2684,13 +2683,13 @@ op, [Online]. Available: [][][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][
 ][][][][][][] []$[][]
  []
 
-[50]
+[49]
 \openout2 = `appendix1.aux'.
 
  (./appendix1.tex
 LaTeX Font Info:    Font shape `EU1/Yas(0)/m/n' will be
 (Font)              scaled to size 27.36815pt on input line 1.
- [51
+ [50
 
 
 ]
@@ -2706,23 +2705,23 @@ Overfull \hbox (5.90175pt too wide) in paragraph at lines 80--80
  [][]|[]\EU1/lmroman10-regular(0)/m/n/10 CrossBrowserTesting[]|[] 
  []
 
-[52] [53] [54]) [55]
+[51] [52] [53]) [54]
 \openout2 = `dicfa2en.aux'.
 
- (./dicfa2en.tex [56
+ (./dicfa2en.tex [55
 
 
 
-] [57] [58])
+] [56] [57])
 \openout2 = `en-abstract.aux'.
 
  (./en-abstract.tex)
-[59
+[58
 
 
 ] (./en_title.tex
 File: fa-logo.png Graphic file (type QTm)
- <use  "fa-logo.png" > [60
+ <use  "fa-logo.png" > [59
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
@@ -2750,4 +2749,4 @@ Here is how much of TeX's memory you used:
  1328 hyphenation exceptions out of 8191
  57i,17n,89p,10433b,1097s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (67 pages).
+Output written on AUTthesis.pdf (66 pages).
