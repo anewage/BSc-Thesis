@@ -1,3 +1,13 @@
-# My B.S.c Final Project
+# My BSc Thesis
 
-This is my B.S.c thesis project which I'll be working under the supervision of Dr. A. A. Barforoush and the title is "Implementing a Usability Testing Tool for Web Applications Using a Crowdsourced Approach".
+Title: <b>Implementing a Usability Testing Tool for Web Applications Using a Crowdsourced Approach</b>
+
+Welcome everybody! This repository contains documents of my BSc thesis at [Amirkabir University of Technology](http://aut.ac.ir). My research was conducted under the supervision of Prof. [Ahmad Abdollahzade Barforoush](http://ceit.aut.ac.ir/~ahmad/).
+
+## Directory Structure
+Each directory contains sub-directories that has a version at the end. The final version (which is most likely to be viewed by others) has the "_Final" suffix.
+
+## Author
+The original author of this thesis is [Amir Haghighati](www.github.com/anewage) and the supervising professor was Prof. [Ahmad Abdollahzade Barforoush](http://ceit.aut.ac.ir/~ahmad/) but the whole research is the courtesy of [Amirkabir University of Technology](http://aut.ac.ir).
+
+Enjoy Reading!
